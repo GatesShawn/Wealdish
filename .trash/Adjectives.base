@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Adjective")

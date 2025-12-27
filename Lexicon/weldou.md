@@ -1,0 +1,18 @@
+---
+Parts of Speech:
+IPA: wɛldou
+English:
+  - grasses
+Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
+Welsh:
+Breton:
+Cornish:
+cognates:
+synonyms:
+antonyms:
+arenas:
+---
+
+[[weld]] + [[-ou]]

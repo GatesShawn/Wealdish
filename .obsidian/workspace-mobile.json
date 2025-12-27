@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9546ee1c287ae1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d978cb3dad7762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6da8d34342c5e480",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wealdyg.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Wealdyg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a4e37119be3844",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f15da702b8484290",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ad927b4a0505e6f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4fa0ef40c091cf90",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e44c6aec6b843ff4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "9cd39713fd778e1b",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook",
+          "title": "Notebook Navigator"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "08b02452a3e87b78",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "808ceaed58887ef9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lexicon/garan.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "56d5432a832eb65a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Lexicon.base",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8a435e42f30e436c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Lexicon.base",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "503151914bf8ba6e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6da8d34342c5e480",
+  "lastOpenFiles": [
+    "README.md",
+    "Lexicon/halon.md",
+    "Lexicon/halonal.md",
+    "Lexicon/halone.md",
+    "Lexicon/halonetig.md",
+    "Wealdyg.md",
+    "Lexicon/reth.md",
+    "Lexicon/teched.md",
+    "Lexicon/riel.md",
+    "Lexicon/putefos.md",
+    "Lexicon/putefmanprenn.md",
+    "Lexicon/putefys.md",
+    "Lexicon/putef.md",
+    "Lexicon/putefmann.md",
+    "Lexicon/kar.md",
+    "Lexicon/avon.md",
+    "Lexicon/avonou.md",
+    "Lexicon/attor.md",
+    "Lexicon/kand.md",
+    "Lexicon/gœvroc.md",
+    "Lexicon/-oc.md",
+    "Lexicon/ratad.md",
+    "Lexicon/ratadyt.md",
+    "Lexicon/ratados.md",
+    "Lexicon/risenn.md",
+    "Lexicon/ris.md",
+    "Nouns.base",
+    "Grammar.base",
+    "Databases.base",
+    "Articles.base",
+    "Adverbs.base",
+    "Adjectives.base",
+    "Lexicon.base",
+    "References",
+    "Grammar",
+    "Lexicon/Untitled.base"
+  ]
+}
