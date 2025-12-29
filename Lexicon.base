@@ -1,0 +1,84 @@
+properties:
+  file.name:
+    displayName: Wealdig
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - '!note["Parts of Speech"].isEmpty()'
+    order:
+      - file.name
+      - English
+      - IPA
+      - Parts of Speech
+      - arenas
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Parts of Speech
+        direction: ASC
+  - type: table
+    name: Nouns
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Noun")
+  - type: table
+    name: Adjectives
+    order:
+      - file.name
+      - Parts of Speech
+    sort:
+      - property: Parts of Speech
+        direction: ASC
+  - type: table
+    name: English
+    filters:
+      and:
+        - "!English.isEmpty()"
+        - '!note["Parts of Speech"].isEmpty()'
+    order:
+      - English
+      - file.name
+      - Parts of Speech
+      - arenas
+    sort:
+      - property: English
+        direction: ASC
+  - type: table
+    name: Modifiers
+    filters:
+      and:
+        - note["Parts of Speech"].containsAny("Prefix", "Suffix")
+    order:
+      - file.name
+      - English
+  - type: table
+    name: Verbs
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Verb")
+  - type: table
+    name: Prepositions
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Preposition")
+    order:
+      - file.name
+      - English
+  - type: table
+    name: zoology
+    filters:
+      and:
+        - arenas.contains("zoology")
+    order:
+      - file.name
+      - English
+  - type: table
+    name: Pronouns
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Pronoun")
+    order:
+      - file.name
+      - English

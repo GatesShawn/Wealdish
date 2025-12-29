@@ -1,0 +1,20 @@
+---
+Parts of Speech:
+  - Verb
+IPA:
+English:
+  - perceive
+Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
+Welsh:
+  - canfod
+Breton:
+Cornish:
+cognates:
+synonyms:
+antonyms:
+arenas:
+---
+
+[[kand]] + [[bot]]

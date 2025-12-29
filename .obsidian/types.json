@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Parts of Speech": "multitext",
+    "English": "multitext",
+    "IPA": "text",
+    "Cornish": "multitext",
+    "Breton": "multitext",
+    "Welsh": "multitext",
+    "Proto-Celtic": "multitext",
+    "Proto-Byrthonic": "multitext",
+    "Proto-Indo-European": "multitext",
+    "antonyms": "multitext",
+    "synonyms": "multitext",
+    "categories": "multitext",
+    "cognates": "multitext",
+    "Author": "multitext",
+    "sources": "multitext",
+    "factions": "multitext",
+    "Wealdig": "multitext",
+    "arenas": "multitext"
+  }
+}

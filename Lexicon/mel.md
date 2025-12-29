@@ -1,0 +1,22 @@
+---
+Parts of Speech:
+  - Noun
+IPA: mɛl
+English:
+  - honey
+  - marrow
+Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
+Welsh:
+Breton:
+Cornish:
+cognates:
+synonyms:
+antonyms:
+arenas:
+  - anatomy
+  - biology
+  - food
+---
+	
