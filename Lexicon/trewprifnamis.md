@@ -4,17 +4,18 @@ Parts of Speech:
 IPA:
 English:
   - stinkbugs
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
+synonyms:
+antonyms:
 arenas:
-  - zoology
   - biology
+  - zoology
 ---
+
 [[trew]] + [[prifnamis]]

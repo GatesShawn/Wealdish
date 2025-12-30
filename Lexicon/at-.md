@@ -3,14 +3,14 @@ Parts of Speech:
   - Prefix
 IPA:
 English:
-  - Positional Prefix - towards 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+  - Positional Prefix - towards
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
 	

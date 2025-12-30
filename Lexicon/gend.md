@@ -5,6 +5,7 @@ Parts of Speech:
 IPA:
 English:
   - "20"
+  - twenty
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

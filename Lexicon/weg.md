@@ -1,10 +1,13 @@
 ---
 Parts of Speech:
   - Noun
+  - Numeral
   - Verb
 IPA:
 English:
+  - "6"
   - be lively
+  - six
   - woman
 Proto-Indo-European:
 Proto-Celtic:

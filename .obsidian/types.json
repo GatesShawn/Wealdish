@@ -20,6 +20,7 @@
     "sources": "multitext",
     "factions": "multitext",
     "Wealdig": "multitext",
-    "arenas": "multitext"
+    "arenas": "multitext",
+    "date": "date"
   }
 }

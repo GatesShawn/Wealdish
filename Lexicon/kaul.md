@@ -4,6 +4,7 @@ Parts of Speech:
 IPA:
 English:
   - kale
+  - soup
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +17,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - agriculture
+  - biology
+  - botany
+  - food
 ---

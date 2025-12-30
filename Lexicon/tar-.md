@@ -4,13 +4,14 @@ Parts of Speech:
 IPA:
 English:
   - Widely Prefix
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 Combined [[ta]] and [[ar]].

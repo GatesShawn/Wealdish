@@ -17,6 +17,14 @@
     {
       "folder": "Lexicon",
       "template": "Templates/Word Template.md"
+    },
+    {
+      "folder": "Grammar",
+      "template": "Templates/Grammar Template.md"
+    },
+    {
+      "folder": "Examples",
+      "template": "Templates/Example Template.md"
     }
   ],
   "enable_file_templates": false,

@@ -5,6 +5,7 @@ IPA:
 English:
   - marsh
   - swamp
+  - toads
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,6 +16,9 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - biology
+  - ecology
+  - zoology
 ---
 
  [[prat]] + [[tor]]

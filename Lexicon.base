@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder != "Templates"
 properties:
   file.name:
     displayName: Wealdig
@@ -79,6 +82,33 @@ views:
     filters:
       and:
         - note["Parts of Speech"].contains("Pronoun")
+    order:
+      - file.name
+      - English
+  - type: table
+    name: Numbers
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Numeral")
+    order:
+      - file.name
+      - English
+    sort:
+      - property: English
+        direction: ASC
+  - type: table
+    name: Adverb
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Adverb")
+    order:
+      - file.name
+      - English
+  - type: table
+    name: Conjugations
+    filters:
+      and:
+        - note["Parts of Speech"].contains("Conjunction")
     order:
       - file.name
       - English

@@ -2,8 +2,7 @@
 Authors:
   - Shawn Gates
 ---
-
-# Overview
+## Overview
 Byrthonic Language that evolved from Common Brythonic between Cornish and Breton
 
 From an in character perspective, this document should be taken as an attempt by a scholar to document the language spoken in the Weald. Due to the nature of the area any given village will likely have fairly disparate dialects that greatly change the proncution or word choice for things. In addition, literacy is likely not high so the spellings presented here are again, only one person's version.
@@ -14,9 +13,13 @@ A sometimes exception to this is Latin due to The Weald generally having a late 
 
 # Examples
 ```base
+filters:
+  and:
+    - file.folder != "Templates"
+    - categories.contains("examples")
 views:
   - type: table
-    name: Table
+    name: Examples
     filters:
       and:
         - categories.contains("examples")
@@ -26,18 +29,40 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Wealdtober
+    filters:
+      and:
+        - categories.contains("Wealdtober")
+    order:
+      - file.name
+      - English
+      - date
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Phrases
+    filters:
+      and:
+        - categories.contains("phrases")
+    order:
+      - file.name
+      - English
 
 ```
 
 # Grammar Rules
 ```base
+filters:
+  and:
+    - file.folder != "Templates"
 views:
   - type: table
-    name: Table
+    name: Grammar Rules
     filters:
       and:
         - categories.contains("Grammar")
-        - file.folder != "Templates"
     order:
       - file.name
       - rule

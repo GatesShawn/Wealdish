@@ -1,23 +1,21 @@
 ---
 Parts of Speech:
+  - Verb
 IPA:
 English:
+  - stinking
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
+  - drewi
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
 arenas:
-categories:
-  - examples
 ---
 
-[[pennobloat]] [[lowenn]]
-
-with a year specified: [[pennobloat]] [[lowenn]] [[yn]] 5 [[oet]]
-
-Pennobloat lowenn yn 5 oet!
+Present Participle 
+[[trew]] + [[-ys]]

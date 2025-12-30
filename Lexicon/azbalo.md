@@ -1,17 +1,18 @@
 ---
 Parts of Speech:
   - Verb
-Proto-Byrthonic:
+IPA:
+English:
+  - become a ruin
+  - fall down
+  - fall to ruin
+Proto-Indo-European:
 Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
   - adfeilio
 Breton:
 Cornish:
-IPA:
-English:
-  - become a ruin
-  - fall to ruin
-  - fall down
-Proto-Indo-European:
 ---
+
 [[az-]] +‎ [[bal]] +‎ [[-o]]

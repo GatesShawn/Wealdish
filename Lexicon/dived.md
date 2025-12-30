@@ -1,5 +1,6 @@
 ---
 Parts of Speech:
+  - Adjective
   - Noun
 IPA:
 English:

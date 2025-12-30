@@ -16,4 +16,4 @@ synonyms:
 antonyms:
 ---
 
-This pronoun loses its final a before ? “is” and ? “was”
+This pronoun loses its final a before [[bot]]
