@@ -5,12 +5,14 @@ Parts of Speech:
 IPA:
 English:
   - be
+  - dirty
   - hut
   - soil
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
+  - baeddu
 Breton:
 Cornish:
   - bos

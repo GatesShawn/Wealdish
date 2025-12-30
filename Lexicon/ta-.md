@@ -3,15 +3,18 @@ Parts of Speech:
   - Prefix
 IPA:
 English:
-  - Positional Prefix - with
   - Positional Prefix - together 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+  - Positional Prefix - towards
+  - Positional Prefix - with
+  - to
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 From the preposition [[ta]]

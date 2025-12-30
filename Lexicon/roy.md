@@ -11,6 +11,7 @@ Welsh:
 Breton:
 Cornish:
 cognates:
+  - "[[rey]]"
 synonyms:
 antonyms:
 arenas:

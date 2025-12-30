@@ -5,6 +5,7 @@ Parts of Speech:
 IPA:
 English:
   - "9"
+  - nine
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

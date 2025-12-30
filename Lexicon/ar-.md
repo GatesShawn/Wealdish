@@ -3,17 +3,18 @@ Parts of Speech:
   - Prefix
 IPA:
 English:
-  - Positional Prefix - in front of
   - Positional Prefix - before
-  - Positional Prefix - on
+  - Positional Prefix - in front of
   - Positional Prefix - near
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+  - Positional Prefix - on
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 From the preposition [[ar]].

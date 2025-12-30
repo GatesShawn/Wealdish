@@ -12,10 +12,18 @@ English:
   - one
 Proto-Indo-European:
 Proto-Celtic:
+  - "*en"
 Proto-Byrthonic:
+  - "*ɨn"
 Welsh:
+  - in
+  - yn
 Breton:
+  - e
+  - en
 Cornish:
+  - en
+  - yn
 cognates:
 synonyms:
 antonyms:

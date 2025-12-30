@@ -5,6 +5,7 @@ IPA:
 English:
   - to
 Proto-Indo-European:
+  - "*do"
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:

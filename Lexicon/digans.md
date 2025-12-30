@@ -5,6 +5,7 @@ Parts of Speech:
 IPA:
 English:
   - "200"
+  - two hundred
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

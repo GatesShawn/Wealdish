@@ -3,13 +3,13 @@ Parts of Speech:
   - Suffix
 IPA:
 English:
-  - Again Suffix 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+  - Again Suffix
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---

@@ -15,4 +15,4 @@ antonyms:
 ---
 
 
-		Forms nouns/adjectives from other nouns and adjectives with the sense of ‘person or thing connected or involved with, belonging to, having’
+Forms nouns/adjectives from other nouns and adjectives with the sense of ‘person or thing connected or involved with, belonging to, having’

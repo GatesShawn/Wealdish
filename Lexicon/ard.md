@@ -4,6 +4,7 @@ Parts of Speech:
 IPA:
 English:
   - bears
+  - sign
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

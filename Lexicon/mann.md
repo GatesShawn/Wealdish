@@ -5,6 +5,7 @@ Parts of Speech:
 IPA:
 English:
   - "0"
+  - zero
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

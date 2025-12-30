@@ -4,6 +4,7 @@ Parts of Speech:
 IPA:
 English:
   - martens
+  - squirrels
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,3 +16,5 @@ synonyms:
 antonyms:
 arenas:
 ---
+
+Note: squirrels and martens were called the same thing in PIE, so I kept that around

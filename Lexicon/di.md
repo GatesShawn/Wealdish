@@ -5,6 +5,7 @@ Parts of Speech:
 IPA: dɪ
 English:
   - "2"
+  - two
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

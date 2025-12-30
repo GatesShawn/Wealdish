@@ -1,7 +1,9 @@
 ---
 Parts of Speech:
+  - Noun
 IPA:
 English:
+  - table
   - timber
   - wood
 Proto-Indo-European:
@@ -17,4 +19,5 @@ antonyms:
 arenas:
 ---
 
-uncountable
+Uncountable for timber and wood
+Singular for table
