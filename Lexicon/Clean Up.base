@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: No Etymology
+    filters:
+      and:
+        - note["Proto-Byrthonic"].isEmpty()
+        - Cornish.isEmpty()
+        - Welsh.isEmpty()
+        - Breton.isEmpty()
+        - note["Proto-Celtic"].isEmpty()
+        - note["Proto-Indo-European"].isEmpty()
+        - file.links.isEmpty()
+        - "!categories.isTruthy()"
+    order:
+      - file.name
+      - Breton
+      - Cornish
+      - English
+      - Proto-Byrthonic
+      - Proto-Celtic
+      - Proto-Indo-European
+      - Welsh
+  - type: table
+    name: Parts of Speech
+    filters:
+      and:
+        - note["Parts of Speech"].isTruthy()
+    order:
+      - file.name
+      - Parts of Speech
+  - type: table
+    name: arenas
+    filters:
+      and:
+        - '!categories.containsAny("examples", "Grammar", "bibliography")'
+        - arenas.isEmpty()
+    order:
+      - file.name
+      - arenas
+      - English

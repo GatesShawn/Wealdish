@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - vellum
+English: [vellum]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

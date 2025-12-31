@@ -15,6 +15,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - sociology
+  - chronology
 ---
 
 [[penno]] + [[bloat]]

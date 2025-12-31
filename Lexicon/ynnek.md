@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "11"
-  - eleven
+English: ["11", eleven]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---
 
 [[yn]] + [[nek]]

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - season
+English: [season]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - warriors
+English: [warriors]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*kawaros"
+Proto-Celtic: ["*kawaros"]
 Proto-Byrthonic:
 Welsh:
 Breton:

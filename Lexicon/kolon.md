@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - pillar
-  - post
-  - stilt
+English: [pillar, post, stilt]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*koloβ̃n"
+Proto-Byrthonic: ["*koloβ̃n"]
 Welsh:
 Breton:
 Cornish:
@@ -18,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
- 

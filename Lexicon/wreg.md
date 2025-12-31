@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wife
+English: [wife]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

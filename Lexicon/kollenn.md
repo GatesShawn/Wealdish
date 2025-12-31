@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - hazel tree
+English: [hazel tree]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[koll]] + [[-enn]] 
+[[koll]] + [[-enn]]

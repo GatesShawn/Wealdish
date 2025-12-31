@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - tortoise
-  - turtle
+English: [tortoise, turtle]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,8 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - zoology
+arenas: [zoology]
 ---
 
-[[krogenn]] + [[prattor]] 
+[[krogenn]] + [[prattor]]

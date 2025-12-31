@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - doing
+English: [doing]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-Present Participle 
+Present Participle

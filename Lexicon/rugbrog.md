@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - commerce
+English: [commerce]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

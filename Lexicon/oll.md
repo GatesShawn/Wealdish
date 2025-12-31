@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Determiner
+Parts of Speech: [Determiner]
 IPA:
-English:
-  - all
+English: [all]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---

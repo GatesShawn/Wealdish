@@ -1,23 +1,13 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - amid
-  - amidst
+English: [amid, amidst]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - mɨsk
-Welsh:
-  - mysg
-Breton:
-  - mesg
-Cornish:
-  - mesc
-  - mesk
-  - mysc
-  - mysk
+Proto-Byrthonic: [mɨsk]
+Welsh: [mysg]
+Breton: [mesg]
+Cornish: [mesc, mesk, mysc, mysk]
 cognates:
 synonyms:
 antonyms:

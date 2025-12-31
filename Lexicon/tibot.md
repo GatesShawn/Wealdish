@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - besmirch
+English: [besmirch]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
 
  [[ti-]]+ [[bot]]

@@ -1,22 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - veins
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [veins]
 Proto-Indo-European:
-Welsh:
-  - gwythi
+Proto-Celtic:
+Proto-Byrthonic:
+Welsh: [gwythi]
 Breton:
-Cornish:
-  - gwythi
+Cornish: [gwythi]
 cognates:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
+
  (suspect of this a bit)

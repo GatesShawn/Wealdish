@@ -1,16 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective 
-Proto-Byrthonic:
+Parts of Speech: [Adjective]
+IPA:
+English: [decayed, in ruins, ruined]
+Proto-Indo-European:
 Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-IPA:
-English:
-  - ruined
-  - in ruins
-  - decayed
-Proto-Indo-European:
 ---
+
 [[azbalo]] + [[-hetig, -etig]]

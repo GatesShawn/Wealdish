@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - point
-  - sharp edge
+English: [point, sharp edge]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

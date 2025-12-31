@@ -1,16 +1,7 @@
 ---
-Parts of Speech:
-  - Article
-  - Preposition
-  - Pronoun
-  - Verb
+Parts of Speech: [Article, Preposition, Pronoun, Verb]
 IPA:
-English:
-  - drive
-  - from
-  - Genitive
-  - of
-  - which
+English: [drive, from, Genitive, of, which]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

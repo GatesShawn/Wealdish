@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - month
+English: [month]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

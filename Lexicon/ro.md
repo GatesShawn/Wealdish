@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Adverb
+Parts of Speech: [Adverb]
 IPA:
-English:
-  - too
+English: [too]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*rro"
+Proto-Byrthonic: ["*rro"]
 Welsh:
 Breton:
 Cornish:
@@ -16,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
- 

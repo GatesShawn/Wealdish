@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - bird-like
-  - feathered
+English: [bird-like, feathered]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[etyn]] +[[-edoz]] 
+[[etyn]] +[[-edoz]]

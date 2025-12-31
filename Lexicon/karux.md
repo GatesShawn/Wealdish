@@ -1,17 +1,14 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: "*kabros"
-English:
-  - chevron
+English: [chevron]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-cognates:
-  - "[[goevr]]"
+cognates: ["[[goevr]]"]
 synonyms:
 antonyms:
 arenas:

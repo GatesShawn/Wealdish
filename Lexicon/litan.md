@@ -1,20 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: llɨtan
-English:
-  - wide
+English: [wide]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*llɨdan"
-Welsh:
-  - llydan
-Breton:
-  - ledan
-  - litan
-Cornish:
-  - ledan
+Proto-Byrthonic: ["*llɨdan"]
+Welsh: [llydan]
+Breton: [ledan, litan]
+Cornish: [ledan]
 cognates:
 synonyms:
 antonyms:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - athlete
+English: [athlete]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,5 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
+
+[[aledrid]] + [[-er]] ?

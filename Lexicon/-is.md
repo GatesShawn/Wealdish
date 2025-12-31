@@ -1,16 +1,15 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Masculinization Suffix
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Masculinization Suffix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 Makes the root more masculine.

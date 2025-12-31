@@ -1,6 +1,5 @@
 ---
-categories:
-  - Grammar
+categories: [Grammar]
 rule: noun + noun +...
 ---
 

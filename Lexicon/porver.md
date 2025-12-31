@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - purple
-  - purpure
+English: [purple, purpure]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - porfor
+Proto-Byrthonic: [porfor]
 Welsh:
 Breton:
 Cornish:

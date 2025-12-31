@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - comet
-  - shooting star
+English: [comet, shooting star]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Feminization Suffix
+English: [Feminization Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - elegy
+English: [elegy]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - marwnad
+Welsh: [marwnad]
 Breton:
 Cornish:
 cognates:

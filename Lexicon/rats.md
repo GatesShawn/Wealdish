@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - rats
+English: [rats]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

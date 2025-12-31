@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - hatch
+English: [hatch]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
-	

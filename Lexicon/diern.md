@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - lady
-  - Lord
+English: [lady, Lord]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

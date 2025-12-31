@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - price
-  - worth
+English: [price, worth]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gwerθ"
+Proto-Byrthonic: ["*gwerθ"]
 Welsh:
 Breton:
 Cornish:

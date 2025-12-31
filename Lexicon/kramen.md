@@ -1,20 +1,12 @@
 ---
-Parts of Speech:
-  - Noun
-Proto-Byrthonic:
-Proto-Celtic:
-  - "*krammen"
-Welsh:
-  - cramen
-Breton:
-  - kramenn
-Cornish:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - crust
-  - scab
-Proto-Indo-European:
-  - "*(s)krama-"
-arenas:
-  - biology
+English: [crust, scab]
+Proto-Indo-European: ["*(s)krama-"]
+Proto-Celtic: ["*krammen"]
+Proto-Byrthonic:
+Welsh: [cramen]
+Breton: [kramenn]
+Cornish:
+arenas: [biology]
 ---

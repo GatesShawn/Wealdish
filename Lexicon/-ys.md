@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Present Participle Suffix
+English: [Present Participle Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

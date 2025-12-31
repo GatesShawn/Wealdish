@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - silver (color)
+English: [silver (color)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

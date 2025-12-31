@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Widely Prefix
+English: [Widely Prefix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

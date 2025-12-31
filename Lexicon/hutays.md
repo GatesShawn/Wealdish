@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA: hūtays
-English:
-  - charming
+English: [charming]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

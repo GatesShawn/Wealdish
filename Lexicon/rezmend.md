@@ -1,15 +1,11 @@
 ---
-Parts of Speech:
-  - Adverb
-  - Noun
+Parts of Speech: [Adverb, Noun]
 IPA:
-English:
-  - somewhat
+English: [somewhat]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - rhywfaint
+Welsh: [rhywfaint]
 Breton:
 Cornish:
 cognates:

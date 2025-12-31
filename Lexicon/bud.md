@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: būd
-English:
-  - food
+English: [food]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

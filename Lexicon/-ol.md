@@ -11,4 +11,6 @@ IPA:
 English:
   - Adjectival Suffix
 Proto-Indo-European:
+arenas:
+  - grammar
 ---

@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - pan
+English: [pan]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*padell"
+Proto-Byrthonic: ["*padell"]
 Welsh:
 Breton:
 Cornish:

@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - table
-  - timber
-  - wood
+English: [table, timber, wood]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*prenn"
+Proto-Byrthonic: ["*prenn"]
 Welsh:
 Breton:
 Cornish:

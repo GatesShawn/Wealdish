@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - lie
+English: [lie]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*legeti"
+Proto-Celtic: ["*legeti"]
 Proto-Byrthonic:
 Welsh:
 Breton:

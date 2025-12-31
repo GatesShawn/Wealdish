@@ -1,24 +1,13 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - bring to
-  - come
-  - steal
-  - take
-Proto-Indo-European:
-  - "*dewk-"
-Proto-Celtic:
-  - "*duketi"
+English: [bring to, come, steal, take]
+Proto-Indo-European: ["*dewk-"]
+Proto-Celtic: ["*duketi"]
 Proto-Byrthonic:
-Welsh:
-  - duyn
-  - dwyn
-Breton:
-  - dougen
-Cornish:
-  - don
+Welsh: [duyn, dwyn]
+Breton: [dougen]
+Cornish: [don]
 cognates:
 synonyms:
 antonyms:

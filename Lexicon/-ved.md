@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Ordinal Suffix
+English: [Ordinal Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

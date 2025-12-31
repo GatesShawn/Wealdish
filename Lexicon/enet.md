@@ -1,22 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - soul
-antonyms:
-synonyms:
-Proto-Byrthonic:
-  - "*enėd"
-Proto-Celtic:
-  - "*anatyom"
-Proto-Indo-European:
-  - "*h₂enh₁-"
-Welsh:
-  - enaid
+English: [soul]
+Proto-Indo-European: ["*h₂enh₁-"]
+Proto-Celtic: ["*anatyom"]
+Proto-Byrthonic: ["*enėd"]
+Welsh: [enaid]
 Breton:
 Cornish:
 cognates:
-arenas:
-  - theology 
+synonyms:
+antonyms:
+arenas: [theology]
 ---

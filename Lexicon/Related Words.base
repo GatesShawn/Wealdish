@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.name != this.file.name
+views:
+  - type: list
+    name: Roots
+    filters:
+      and:
+        - this.file.hasLink(file)
+  - type: list
+    name: Families
+    filters:
+      and:
+        - families.containsAny(this.families)

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - morsel
+English: [morsel]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[bud]] + [[-ig]] 
+[[bud]] + [[-ig]]

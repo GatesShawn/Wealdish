@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective 
-Proto-Byrthonic:
+Parts of Speech: [Adjective]
+IPA:
+English: [deadly, fatal, mortal]
+Proto-Indo-European:
 Proto-Celtic:
-Welsh:
-  - marwol
+Proto-Byrthonic:
+Welsh: [marwol]
 Breton:
 Cornish:
-IPA:
-English:
-  - mortal
-  - deadly
-  - fatal
-Proto-Indo-European:
 ---
+
 [[marv]] + [[-ol]]

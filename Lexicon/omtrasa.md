@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
-  - Verbnoun
+Parts of Speech: [Verb, Verbnoun]
 IPA:
-English:
-  - crawl
-  - creep
+English: [crawl, creep]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -18,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[om-]] + [[trasa]] 
+[[om-]] + [[trasa]]

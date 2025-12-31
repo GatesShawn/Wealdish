@@ -1,19 +1,14 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - preach
+English: [preach]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - -u
-Breton:
-  - -om
+Welsh: [-u]
+Breton: [-om]
 Cornish:
-arenas:
-  - sociology
+arenas: [sociology]
 ---
 
 [[rueman]] + [[-ov]]

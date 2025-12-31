@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - merchant
+English: [merchant]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[rugbrog]] +[[-at]] 
+[[rugbrog]] +[[-at]]

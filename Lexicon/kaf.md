@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kaθ
-English:
-  - cats
-  - coffee
+English: [cats, coffee]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 
 For 'coffee', from Ottoman Turkish: Kahve

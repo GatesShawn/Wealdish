@@ -1,12 +1,10 @@
 ---
-English:
-  - A gnarl singing to their thousand children beneath the snows.
-categories:
-  - examples
+categories: [examples]
+English: [A gnarl singing to their thousand children beneath the snows.]
 ---
 
 # English
 A gnarl singing to their thousand children beneath the snows.
 
-# Wealdig 
+# Wealdig
 [[yn]] [[narlwirosenn]] [[kanetys]] [[ta]] [[ago]] [[dekans]] [[bug]] [[wo]] [[an]] [[ergou]].

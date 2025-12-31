@@ -1,20 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - crows
-  - ravens 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [crows, ravens]
 Proto-Indo-European:
-Welsh:
-Breton:
-Cornish:
+Proto-Celtic: ["*branos"]
+Proto-Byrthonic: ["*bran"]
+Welsh: [bran, brân]
+Breton: [bran]
+Cornish: [bran]
 cognates:
-arenas:
-  - biology
-  - zoology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---

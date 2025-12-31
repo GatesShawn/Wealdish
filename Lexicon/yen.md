@@ -1,24 +1,13 @@
 ---
-Parts of Speech:
-  - Particle
-  - Preposition
+Parts of Speech: [Particle, Preposition]
 IPA:
-English:
-  - in
+English: [in]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*en"
-Proto-Byrthonic:
-  - "*ɨn"
-Welsh:
-  - in
-  - yn
-Breton:
-  - e
-  - en
-Cornish:
-  - en
-  - yn
+Proto-Celtic: ["*en"]
+Proto-Byrthonic: ["*ɨn"]
+Welsh: [in, yn]
+Breton: [e, en]
+Cornish: [en, yn]
 cognates:
 synonyms:
 antonyms:

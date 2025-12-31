@@ -1,24 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - feather
-  - wing
+English: [feather, wing]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*ɸatanī"
-Proto-Byrthonic:
-  - "*adėn"
-Welsh:
-  - adain
+Proto-Celtic: ["*ɸatanī"]
+Proto-Byrthonic: ["*adėn"]
+Welsh: [adain]
 Breton:
 Cornish:
-cognates:
-  - "[[etyn]]"
+cognates: ["[[etyn]]"]
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---

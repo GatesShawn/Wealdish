@@ -1,25 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kɑː(ɹ)n
-English:
-  - cairn
-  - hoofs
-  - hooves
+English: [cairn, hoofs, hooves]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*karn"
+Proto-Byrthonic: ["*karn"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
-  - sociology
+arenas: [anatomy, biology, sociology]
 ---
 
 ## Mutation of karn

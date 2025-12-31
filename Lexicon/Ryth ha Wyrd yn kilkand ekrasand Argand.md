@@ -1,7 +1,4 @@
 ---
-English:
-  - Paly of 6 Gules and Vert, a crescent decrescent Argent
-categories:
-  - blazons
-  - examples
+categories: [blazons, examples]
+English: [a crescent decrescent Argent, Paly of 6 Gules and Vert]
 ---

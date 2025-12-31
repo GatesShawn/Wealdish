@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - thirteenth
+English: [thirteenth]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

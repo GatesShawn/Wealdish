@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "8"
-  - eight
+English: ["8", eight]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---

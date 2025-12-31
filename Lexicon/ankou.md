@@ -1,16 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
-Proto-Byrthonic:
-  - "*ankow"
-Proto-Celtic:
-  - "*ankus"
-Welsh:
-  - angheu
+Parts of Speech: [Noun]
+IPA:
+English: [death]
+Proto-Indo-European:
+Proto-Celtic: ["*ankus"]
+Proto-Byrthonic: ["*ankow"]
+Welsh: [angheu]
 Breton:
 Cornish:
-IPA:
-English:
-  - death
-Proto-Indo-European:
 ---

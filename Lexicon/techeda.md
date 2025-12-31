@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - abandon
+English: [abandon]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---

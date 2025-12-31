@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - country
+English: [country]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gwlad"
+Proto-Byrthonic: ["*gwlad"]
 Welsh:
 Breton:
 Cornish:
@@ -17,4 +14,3 @@ antonyms:
 arenas:
 ---
 
- 	

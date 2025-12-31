@@ -1,18 +1,15 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - fix
-  - repair
-  - mend
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [fix, mend, repair]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 [[texow]] + [[-e, -he]]

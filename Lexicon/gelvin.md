@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: gɛlβin
-English:
-  - beak
+English: [beak]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---

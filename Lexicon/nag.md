@@ -1,20 +1,13 @@
 ---
-Parts of Speech:
-  - Conjunction
-  - Particle
+Parts of Speech: [Conjunction, Particle]
 IPA:
-English:
-  - no
-  - nor
+English: [no, nor]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*nag"
+Proto-Byrthonic: ["*nag"]
 Welsh:
 Breton:
-Cornish:
-  - na
-  - nag
+Cornish: [na, nag]
 cognates:
 synonyms:
 antonyms:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - created
+English: [created]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +15,4 @@ arenas:
 ---
 
 [[tiwaryt]] + [[-yt]]
-Past Participle 
+Past Participle

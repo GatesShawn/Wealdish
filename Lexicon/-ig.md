@@ -1,17 +1,15 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Diminutive Suffix 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Diminutive Suffix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
-Breton:
-  - -ig
+Breton: [-ig]
 Cornish:
+synonyms:
+antonyms:
 ---
+
 -ig	Taken from Breton

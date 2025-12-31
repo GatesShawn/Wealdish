@@ -1,31 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - blunt
-  - brittle
-  - brutally honest
-  - candid
-  - crumbly
-  - forthright
-  - fragile
-  - frail
-  - harsh
-  - loose
-  - perishable
-  - tender
-  - weak
-Proto-Indo-European:
-  - "*bʰrus-"
-Proto-Celtic:
-  - "*brus- "
+English: [blunt, brittle, brutally honest, candid, crumbly, forthright, fragile, frail, harsh, loose, perishable, tender, weak]
+Proto-Indo-European: ["*bʰrus-"]
+Proto-Celtic: ["*brus- "]
 Proto-Byrthonic:
-Welsh:
-  - brau
+Welsh: [brau]
 Breton:
-Cornish:
-  - brew
+Cornish: [brew]
 cognates:
 synonyms:
 antonyms:

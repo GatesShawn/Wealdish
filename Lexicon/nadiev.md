@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - gnaw
+English: [gnaw]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[nadi]] + [[-ev]] 
+[[nadi]] + [[-ev]]

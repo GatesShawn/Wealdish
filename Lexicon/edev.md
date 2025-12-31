@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - ember
+English: [ember]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
-	

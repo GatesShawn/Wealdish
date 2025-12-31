@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - which
+English: [which]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

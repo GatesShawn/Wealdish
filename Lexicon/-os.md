@@ -1,16 +1,16 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Adjectival Results Suffix
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Adjectival Results Suffix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
+arenas: [grammar]
 ---
+
 Turns a verb into an adjective about the verbs results.

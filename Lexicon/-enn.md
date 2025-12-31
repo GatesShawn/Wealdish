@@ -1,15 +1,13 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Singluative Suffix 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Singluative Suffix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---

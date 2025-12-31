@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wings (pair)
+English: [wings (pair)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,10 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
-  - zoology
+arenas: [anatomy, biology, zoology]
 ---
 
 [[di-, daou-, div-]] + [[atan]]

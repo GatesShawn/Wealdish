@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - die
+English: [die]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

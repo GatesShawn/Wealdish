@@ -1,16 +1,13 @@
 ---
-Parts of Speech:
+Parts of Speech: [Verb]
 IPA:
-English:
-  - drag
+English: [drag]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - llusg
+Welsh: [llusg]
 Breton:
-Cornish:
-  - drayl
+Cornish: [drayl]
 cognates:
 synonyms:
 antonyms:

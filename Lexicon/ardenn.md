@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bear
+English: [bear]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 
 [[ard]] + [[-enn]]

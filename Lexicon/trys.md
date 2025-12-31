@@ -1,18 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - complex
-  - intricate
-  - tangled
-  - thorny
+English: [complex, intricate, tangled, thorny]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*drits-"
+Proto-Celtic: ["*drits-"]
 Proto-Byrthonic:
-Welsh:
-  - dyrys
+Welsh: [dyrys]
 Breton:
 Cornish:
 cognates:

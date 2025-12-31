@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - ghost
-  - spirit
+English: [ghost, spirit]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - spɨrɨd
+Proto-Byrthonic: [spɨrɨd]
 Welsh:
 Breton:
 Cornish:

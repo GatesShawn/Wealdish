@@ -1,17 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - weasels
+English: [agreement, concord]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
+Welsh: [cydfod]
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
+
+[[kom-]] +‎ [[bot]]

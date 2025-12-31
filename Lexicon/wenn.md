@@ -1,25 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA: " /ˈwɨnː/"
-English:
-  - white
+English: [white]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*windos"
-Proto-Byrthonic:
-  - "*gwenn"
-  - "*gwɨnn"
-Welsh:
-  - gwyn
-  - gwynn
-Breton:
-  - guinn
-  - gwenn
-Cornish:
-  - guyn
-  - gwynn
+Proto-Celtic: ["*windos"]
+Proto-Byrthonic: ["*gwenn", "*gwɨnn"]
+Welsh: [gwyn, gwynn]
+Breton: [guinn, gwenn]
+Cornish: [guyn, gwynn]
 cognates:
 synonyms:
 antonyms:

@@ -1,17 +1,14 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Positional Prefix - under
-  - Positional Prefix - sub
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Positional Prefix - sub, Positional Prefix - under]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
 

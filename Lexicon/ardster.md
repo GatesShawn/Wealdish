@@ -1,5 +1,6 @@
 ---
 Parts of Speech:
+  - Adjective
 IPA:
 English:
   - star sign
@@ -14,6 +15,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - folklore
 ---
 
 [[ard]] + [[ster]]

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - theives
+English: [theives]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,6 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - sociology
+arenas: [sociology]
 ---

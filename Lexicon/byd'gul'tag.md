@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - ner'do'well
+English: [ner'do'well]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

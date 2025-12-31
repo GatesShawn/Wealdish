@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - our
+English: [our]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-possessive 
+possessive

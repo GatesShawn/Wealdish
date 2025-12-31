@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - trees (several types)
+English: [trees (several types)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

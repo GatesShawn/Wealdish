@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - besmircher
+English: [besmircher]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
 
 [[tibot]] +[[-at]]

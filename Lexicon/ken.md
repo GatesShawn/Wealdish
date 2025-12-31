@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - lichen
+English: [lichen]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*kenni-"
+Proto-Celtic: ["*kenni-"]
 Proto-Byrthonic:
 Welsh:
 Breton:

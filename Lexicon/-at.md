@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Again Suffix
+English: [Again Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,4 +10,5 @@ Breton:
 Cornish:
 synonyms:
 antonyms:
+arenas: [grammar]
 ---

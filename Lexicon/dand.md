@@ -1,20 +1,12 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - cord
-  - string
+English: [cord, string]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*tantus"
+Proto-Celtic: ["*tantus"]
 Proto-Byrthonic:
-Welsh:
-  - tant
-  - tantou
-Breton:
-  - tanntou
-  - tant
+Welsh: [tant, tantou]
+Breton: [tanntou, tant]
 Cornish:
 cognates:
 synonyms:

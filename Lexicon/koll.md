@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - hazel trees
-  - loss
+English: [hazel trees, loss]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*koldom"
-Proto-Byrthonic:
-  - "*koll"
+Proto-Celtic: ["*koldom"]
+Proto-Byrthonic: ["*koll"]
 Welsh:
 Breton:
 Cornish:
@@ -19,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-Homonyms 
+Homonyms

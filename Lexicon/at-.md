@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Positional Prefix - towards
+English: [Positional Prefix - towards]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,5 +10,5 @@ Breton:
 Cornish:
 synonyms:
 antonyms:
+arenas: [grammar]
 ---
-	

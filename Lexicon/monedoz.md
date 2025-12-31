@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - peaty
+English: [peaty]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

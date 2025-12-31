@@ -14,6 +14,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - biology
 ---
 
 [[putefmann]] + [[prenn]]

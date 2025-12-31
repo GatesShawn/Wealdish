@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - broccoli
+English: [broccoli]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,11 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - botany
-  - biology
-  - food
-  - agriculture 
+arenas: [agriculture, biology, botany, food]
 ---
 
 [[brod]] + [[-ig]]

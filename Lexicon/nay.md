@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Particle
+Parts of Speech: [Particle]
 IPA:
-English:
-  - nay
+English: [nay]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

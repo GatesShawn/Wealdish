@@ -1,14 +1,12 @@
 ---
-Parts of Speech:
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - your (singular)
+English: [your (singular)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - da
+Breton: [da]
 Cornish:
 cognates:
 synonyms:

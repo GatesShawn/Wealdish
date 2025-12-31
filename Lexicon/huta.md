@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA: hūta
-English:
-  - charm
+English: [charm]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

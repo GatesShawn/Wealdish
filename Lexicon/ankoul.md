@@ -1,16 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective 
-Proto-Byrthonic:
+Parts of Speech: [Adjective]
+IPA:
+English: [deadly, fatal]
+Proto-Indo-European:
 Proto-Celtic:
-Welsh:
-  - angheuol
+Proto-Byrthonic:
+Welsh: [angheuol]
 Breton:
 Cornish:
-IPA:
-English:
-  - deadly
-  - fatal
-Proto-Indo-European:
 ---
+
  [[ankou]] + [[-ol]]

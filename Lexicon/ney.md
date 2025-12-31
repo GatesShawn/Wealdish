@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adverb
+Parts of Speech: [Adverb]
 IPA:
-English:
-  - not
+English: [not]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

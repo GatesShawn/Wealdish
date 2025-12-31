@@ -1,9 +1,6 @@
 ---
-English:
-  - Arbiter-Merchant
-categories:
-  - examples
-  - Wealdtober
+categories: [examples, Wealdtober]
+English: [Arbiter-Merchant]
 date: 2024-10-10
 ---
 

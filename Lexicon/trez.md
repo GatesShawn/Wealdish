@@ -1,21 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - trade
-antonyms:
-synonyms:
-Proto-Byrthonic:
+English: [trade]
+Proto-Indo-European: ["*dreh₂-"]
 Proto-Celtic:
-Proto-Indo-European:
-  - "*dreh₂-"
-Welsh:
-  - masnach
-Breton:
-  - kenwerzh
+Proto-Byrthonic:
+Welsh: [masnach]
+Breton: [kenwerzh]
 Cornish:
 cognates:
-arenas:
-  - sociology 
+synonyms:
+antonyms:
+arenas: [sociology]
 ---

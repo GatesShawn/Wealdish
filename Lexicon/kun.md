@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - kindle
+English: [kindle]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - usual
+English: [usual]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - arferol
+Welsh: [arferol]
 Breton:
 Cornish:
 cognates:

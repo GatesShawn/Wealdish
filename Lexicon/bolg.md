@@ -1,21 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: bolɣ
-English:
-  - stomach
-  - sack
-antonyms:
-synonyms:
-Proto-Byrthonic:
-  - "*bolɣ"
-Proto-Celtic:
+English: [sack, stomach]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic: ["*bolɣ"]
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - biology
-  - anatomy
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---

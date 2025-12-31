@@ -1,15 +1,12 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - slimy
+English: [slimy]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - glizhek
+Breton: [glizhek]
 Cornish:
 cognates:
 synonyms:

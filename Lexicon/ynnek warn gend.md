@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "31"
-  - thirty one
+English: ["31", thirty one]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---
 
 [[ynnek]] [[warn]] [[gend]]

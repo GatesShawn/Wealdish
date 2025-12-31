@@ -1,11 +1,8 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - dye
-Proto-Indo-European:
-  - "*teng-"
+English: [dye]
+Proto-Indo-European: ["*teng-"]
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: wɛld
-English:
-  - grass
+English: [grass]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

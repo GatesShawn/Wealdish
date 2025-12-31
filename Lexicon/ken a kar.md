@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - lichen on a rock
+English: [lichen on a rock]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

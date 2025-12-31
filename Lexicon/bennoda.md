@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - bless
+English: [bless]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

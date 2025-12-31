@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - knot
+English: [knot]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
-	

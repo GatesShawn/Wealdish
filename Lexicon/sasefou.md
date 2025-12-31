@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: sasɛθoù
-English:
-  - arrows
+English: [arrows]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [war]
 ---
 
 [[sasef]] + [[-ou]]

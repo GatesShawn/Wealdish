@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Verb
+Parts of Speech: [Noun, Verb]
 IPA:
-English:
-  - will
-  - wish
+English: [will, wish]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

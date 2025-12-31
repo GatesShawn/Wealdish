@@ -1,21 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - liver
+English: [liver]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - aβʉ
+Proto-Byrthonic: [aβʉ]
 Welsh:
 Breton:
-Cornish:
-  - avi
+Cornish: [avi]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---

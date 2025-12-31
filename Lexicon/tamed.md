@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - hide
+English: [hide]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

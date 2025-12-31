@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - breadth
-  - side
+English: [breadth, side]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

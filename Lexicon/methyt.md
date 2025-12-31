@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - judge
-  - measure
+English: [judge, measure]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*mėðɨd"
+Proto-Byrthonic: ["*mėðɨd"]
 Welsh:
 Breton:
 Cornish:

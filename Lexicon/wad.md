@@ -1,23 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - blood
+English: [blood]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*waytos"
+Proto-Celtic: ["*waytos"]
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - gwad
-Cornish:
-  - goes
+Breton: [gwad]
+Cornish: [goes]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---
- 

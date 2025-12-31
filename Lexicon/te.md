@@ -1,20 +1,13 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - from
+English: [from]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*di"
-Welsh:
-  - di
+Proto-Byrthonic: ["*di"]
+Welsh: [di]
 Breton:
-Cornish:
-  - de
-  - dhe
-  - dy
+Cornish: [de, dhe, dy]
 cognates:
 synonyms:
 antonyms:

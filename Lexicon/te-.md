@@ -1,16 +1,15 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - From Prefix 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [From Prefix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---
+
 From the preposition [[te]].

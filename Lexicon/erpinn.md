@@ -1,18 +1,14 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: ɛrpɪnn
-English:
-  - in front of the head 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [in front of the head]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---

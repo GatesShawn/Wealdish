@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - centipedes
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [centipedes]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---
+
 [[kans]] + [[knamisou]]

@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - widow
+English: [widow]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gweðw"
+Proto-Byrthonic: ["*gweðw"]
 Welsh:
 Breton:
 Cornish:

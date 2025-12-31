@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: lɪdan
-English:
-  - broad
+English: [broad]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

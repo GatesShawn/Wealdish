@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - unfortunate
-  - unlucky
+English: [unfortunate, unlucky]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

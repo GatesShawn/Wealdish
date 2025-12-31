@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - creeks
-  - streams
+English: [creeks, streams]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

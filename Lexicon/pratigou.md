@@ -14,6 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - ecology
+  - geography
 ---
 
 [[pratig]] + [[-ou]]

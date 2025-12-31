@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - turnip (non countable)
+English: [turnip (non countable)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,10 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - agriculture 
-  - biology
-  - food
+arenas: [agriculture, biology, food]
 ---
 
 [[arben]] + [[-ou]]

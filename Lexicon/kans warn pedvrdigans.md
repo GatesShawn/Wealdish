@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "900"
-  - nine hundred
+English: ["900", nine hundred]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---
 
 [[kans]] [[warn]] [[pedvrdigans]]

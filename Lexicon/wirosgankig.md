@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - finger
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [finger]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
+
 [[wirosgank]] + [[-ig]] or [[wiros]] + [[gankig]]

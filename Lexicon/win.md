@@ -1,12 +1,10 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wine
+English: [wine]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gwin"
+Proto-Byrthonic: ["*gwin"]
 Welsh:
 Breton:
 Cornish:

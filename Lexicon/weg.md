@@ -1,14 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
-  - Verb
+Parts of Speech: [Noun, Numeral, Verb]
 IPA:
-English:
-  - "6"
-  - be lively
-  - six
-  - woman
+English: ["6", be lively, six, woman]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -18,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---

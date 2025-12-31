@@ -1,17 +1,9 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - at
-  - by
-  - for
-  - to
-  - towards
-Proto-Indo-European:
-  - "*h₂éd"
-Proto-Celtic:
-  - "*ad-"
+English: [at, by, for, to, towards]
+Proto-Indo-European: ["*h₂éd"]
+Proto-Celtic: ["*ad-"]
 Proto-Byrthonic:
 Welsh:
 Breton:
@@ -19,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---
 
 

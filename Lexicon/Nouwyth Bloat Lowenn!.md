@@ -1,9 +1,6 @@
 ---
-English:
-  - Happy New Year
-categories:
-  - examples
-  - phrases
+categories: [examples, phrases]
+English: [Happy New Year]
 ---
 
 [[nouwyth]] [[bloat]] [[lowenn]] !

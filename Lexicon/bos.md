@@ -1,21 +1,17 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - are
+English: [are]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - boes
-Cornish:
-  - beus
+Breton: [boes]
+Cornish: [beus]
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---
 
 Second person Indicitive preterite.

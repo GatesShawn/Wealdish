@@ -1,19 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wasps
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [wasps]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---

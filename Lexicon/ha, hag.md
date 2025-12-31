@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Conjunction
+Parts of Speech: [Conjunction]
 IPA:
-English:
-  - and
+English: [and]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

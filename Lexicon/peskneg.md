@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - eels
+English: [eels]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 
 the 's' in [[sneg]] is dropped for ease

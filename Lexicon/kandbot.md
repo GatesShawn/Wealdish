@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - perceive
+English: [perceive]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - canfod
+Welsh: [canfod]
 Breton:
 Cornish:
 cognates:

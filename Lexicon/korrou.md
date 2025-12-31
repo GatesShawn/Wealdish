@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - dwarfs
-  - dwarves
+English: [dwarfs, dwarves]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

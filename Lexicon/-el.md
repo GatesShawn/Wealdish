@@ -1,16 +1,16 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Attributive Suffix
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Attributive Suffix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
+arenas: [grammar]
 ---
+
 Forms adjectives from nouns

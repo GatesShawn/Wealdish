@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - parasitic
+English: [parasitic]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

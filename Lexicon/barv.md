@@ -1,23 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - beard
-Proto-Indo-European:
-  - "*bʰardʰeh"
+English: [beard]
+Proto-Indo-European: ["*bʰardʰeh"]
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*barβ"
+Proto-Byrthonic: ["*barβ"]
 Welsh:
-Breton:
-  - barv
-Cornish:
-  - barv
+Breton: [barv]
+Cornish: [barv]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---

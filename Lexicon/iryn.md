@@ -1,19 +1,15 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - acorns
+English: [acorns]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*ėɣrin"
+Proto-Byrthonic: ["*ėɣrin"]
 Welsh:
-Breton:
-  - irin
-Cornish:
-  - yryn
+Breton: [irin]
+Cornish: [yryn]
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [biology, botany, ecology]
 ---

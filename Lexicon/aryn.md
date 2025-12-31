@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - ain't
-  - isn't
+English: [ain't, isn't]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

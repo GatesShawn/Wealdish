@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - murdering
-  - slaughtering
+English: [murdering, slaughtering]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

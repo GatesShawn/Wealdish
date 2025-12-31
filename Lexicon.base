@@ -19,8 +19,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: Parts of Speech
-        direction: ASC
   - type: table
     name: Nouns
     filters:

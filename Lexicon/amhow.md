@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - doubt
-  - suspect
+English: [doubt, suspect]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*amhow"
+Proto-Byrthonic: ["*amhow"]
 Welsh:
 Breton:
 Cornish:

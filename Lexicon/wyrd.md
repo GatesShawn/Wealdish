@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - green
+English: [green]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - similar
+English: [similar]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

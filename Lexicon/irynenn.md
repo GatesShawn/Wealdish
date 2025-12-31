@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - acorn
+English: [acorn]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - botany
+arenas: [biology, botany, ecology]
 ---
 
 [[iryn]] + [[-enn]]

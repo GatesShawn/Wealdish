@@ -1,15 +1,13 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Equative Prefix 
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [Equative Prefix]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+synonyms:
+antonyms:
 ---

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - clever
-  - sharp
+English: [clever, sharp]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

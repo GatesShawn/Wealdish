@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wolves
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [wolves]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---
+
 Note: Considered taboo to say, most use [[walos]] instead.

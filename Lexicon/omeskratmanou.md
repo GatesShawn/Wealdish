@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - entrails
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [entrails]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
-[[om-]] + [[eskrat]]  + [[-man]]  + [[-ou]] 
+
+[[om-]] + [[eskrat]]  + [[-man]]  + [[-ou]]

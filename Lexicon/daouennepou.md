@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - eyes
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [eyes]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
+
 [[daouennep]] + [[-ou]]

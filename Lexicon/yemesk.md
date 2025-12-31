@@ -1,15 +1,11 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - among
-  - amongst
+English: [among, amongst]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - ymysg
+Welsh: [ymysg]
 Breton:
 Cornish:
 cognates:

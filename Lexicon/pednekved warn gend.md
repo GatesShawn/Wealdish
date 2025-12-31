@@ -15,6 +15,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - mathematics
 ---
 
 [[pednekved]] [[warn]] [[gend]]

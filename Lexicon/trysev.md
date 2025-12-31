@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - confuse
-  - entangle
-  - muddle
+English: [confuse, entangle, muddle]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

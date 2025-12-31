@@ -1,19 +1,16 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kɛrnenn
-English:
-  - horn
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [horn]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
+
 [[kern]] + [[-enn]]

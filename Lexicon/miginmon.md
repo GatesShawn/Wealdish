@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - mire
-  - peatbog
+English: [mire, peatbog]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[migin]] + [[mon]] 
+[[migin]] + [[mon]]

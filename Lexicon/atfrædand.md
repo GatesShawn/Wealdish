@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - inwit
+English: [inwit]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
 
-[[at]] + [[wit]]
+[[at]] + [[frædand]]

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Wealdtober
+English: [Wealdtober]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +15,4 @@ arenas:
 ---
 
 [[weald]] + [[Myti]]
-Portmanteau of Weald and [[Myti]]; an art festival 
+Portmanteau of Weald and [[Myti]]; an art festival

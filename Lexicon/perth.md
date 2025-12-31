@@ -1,23 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bush
-  - thicket
+English: [bush, thicket]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*perθ"
+Proto-Byrthonic: ["*perθ"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - botany
-  - biology
+arenas: [biology, botany]
 ---
 
-uncountable 
+uncountable

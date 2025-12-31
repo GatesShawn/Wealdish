@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Semi Suffix
+English: [Semi Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,4 +12,4 @@ synonyms:
 antonyms:
 ---
 
-half-, semi-, part, partially					
+half-, semi-, part, partially

@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - before
-  - earlier
-  - previous
+English: [before, earlier, previous]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

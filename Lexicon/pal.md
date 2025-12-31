@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - a vertical stripe
-  - pole
+English: [a vertical stripe, pole]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,8 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - heraldry
+arenas: [heraldry]
 ---
 
 from latin 'palus'

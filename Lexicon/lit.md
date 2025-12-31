@@ -1,15 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - slime
+English: [slime]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*llėd"
-Welsh:
-  - llys
+Proto-Byrthonic: ["*llėd"]
+Welsh: [llys]
 Breton:
 Cornish:
 cognates:

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - get bigger
-  - grow
+English: [get bigger, grow]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

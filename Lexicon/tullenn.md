@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA: tʉllenn
-English:
-  - hole
+English: [hole]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

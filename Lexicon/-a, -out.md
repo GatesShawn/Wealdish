@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Suffix]
 IPA:
 English:
-  - weasel
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,12 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---
 
-[[waeselou]] + [[-enn]]
+## Construction
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]

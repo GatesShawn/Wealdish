@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - talk
+English: [talk]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*tlokʷīti"
+Proto-Celtic: ["*tlokʷīti"]
 Proto-Byrthonic:
 Welsh:
 Breton:

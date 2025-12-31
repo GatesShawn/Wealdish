@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: o̜βɛr
-English:
-  - vain
+English: [vain]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

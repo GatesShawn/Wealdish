@@ -1,20 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - hollow
+English: [hollow]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*kʷantyos"
+Proto-Celtic: ["*kʷantyos"]
 Proto-Byrthonic:
-Welsh:
-  - pant
-Breton:
-  - pant
-  - pantet
-Cornish:
-  - pans
+Welsh: [pant]
+Breton: [pant, pantet]
+Cornish: [pans]
 cognates:
 synonyms:
 antonyms:

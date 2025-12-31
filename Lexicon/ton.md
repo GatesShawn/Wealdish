@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - deep
+English: [deep]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
-	

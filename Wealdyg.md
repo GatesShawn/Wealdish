@@ -1,7 +1,7 @@
 ---
-Authors:
-  - Shawn Gates
+Authors: [Shawn Gates]
 ---
+
 ## Overview
 Byrthonic Language that evolved from Common Brythonic between Cornish and Breton
 

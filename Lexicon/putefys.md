@@ -14,7 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - biology
 ---
 
-present particle 
+present particle
 [[putef]] + [[-ys]]

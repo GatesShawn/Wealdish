@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - us (dual)
-  - we (dual)
+English: [us (dual), we (dual)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

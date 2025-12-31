@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bug
-  - insect
+English: [bug, insect]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 
 [[prifnamis]] +[[-enn]]

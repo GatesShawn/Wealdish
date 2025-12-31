@@ -1,27 +1,15 @@
 ---
-Parts of Speech:
-  - Adjective 
-Proto-Byrthonic:
-  - "*dexow"
-Proto-Celtic:
-Welsh:
-  - deau
-  - deheu
-Breton:
-  - dehou
-  - deou
-Cornish:
-  - dehow
-  - dyghow
-  - deghow
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - right
-  - southern
+English: [right, southern]
 Proto-Indo-European:
-antonyms:
-  - "[[klet]]"
+Proto-Celtic:
+Proto-Byrthonic: ["*dexow"]
+Welsh: [deau, deheu]
+Breton: [dehou, deou]
+Cornish: [deghow, dehow, dyghow]
 synonyms:
+antonyms: ["[[klet]]"]
 ---
 
 

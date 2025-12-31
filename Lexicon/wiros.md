@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - man
-  - mankind
+English: [man, mankind]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

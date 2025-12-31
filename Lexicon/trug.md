@@ -1,19 +1,15 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - bad
-  - evil
+English: [bad, evil]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*drug"
+Proto-Byrthonic: ["*drug"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology, theology]
 ---

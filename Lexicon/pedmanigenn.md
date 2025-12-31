@@ -14,6 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - zoology
+  - biology
 ---
 
 [[pedmanig]] + [[-enn]]

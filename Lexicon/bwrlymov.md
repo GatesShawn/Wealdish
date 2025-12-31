@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - bubble
+English: [bubble]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

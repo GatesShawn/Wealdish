@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - blue-green
-  - grue
+English: [blue-green, grue]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - glas
+Proto-Byrthonic: [glas]
 Welsh:
 Breton:
 Cornish:

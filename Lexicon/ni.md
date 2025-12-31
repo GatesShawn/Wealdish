@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - us
-  - we
+English: [us, we]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

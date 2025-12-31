@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - nomad
-  - wanderer
+English: [nomad, wanderer]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[kruetir]] + [[-in]] 
+[[kruetir]] + [[-in]]

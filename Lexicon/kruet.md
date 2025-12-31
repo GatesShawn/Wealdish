@@ -1,19 +1,15 @@
 ---
-Parts of Speech:
-  - winnowing fan
+Parts of Speech: [Noun]
 IPA:
-English:
-  - sieve
+English: [sieve, winnowing fan]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kruɨdr"
+Proto-Byrthonic: ["*kruɨdr"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - agriculture
+arenas: [agriculture]
 ---

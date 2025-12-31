@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - parsnip (non countable)
+English: [parsnip (non countable)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

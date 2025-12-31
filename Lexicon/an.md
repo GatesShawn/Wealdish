@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Article
+Parts of Speech: [Article]
 IPA:
-English:
-  - the
+English: [the]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

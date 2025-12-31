@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - cabbages
+English: [cabbages]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,8 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - botany
-  - food
-  - biology
+arenas: [biology, botany, food]
 ---

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - as
+English: [as]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---

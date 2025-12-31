@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Verb]
 IPA:
-English:
-  - guard
-  - ward
+English: [guard, ward]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

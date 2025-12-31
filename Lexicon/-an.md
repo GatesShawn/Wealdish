@@ -1,15 +1,11 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
+IPA:
+English: [Diminutive Suffix]
+Proto-Indo-European:
+Proto-Celtic: ["*-agnos"]
 Proto-Byrthonic:
-Proto-Celtic:
-  - "*-agnos"
-Welsh:
-  - -an
+Welsh: [-an]
 Breton:
 Cornish:
-IPA:
-English:
-  - Diminutive Suffix 
-Proto-Indo-European:
 ---

@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - path
+English: [path]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*hɨnt"
+Proto-Byrthonic: ["*hɨnt"]
 Welsh:
 Breton:
 Cornish:

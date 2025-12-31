@@ -21,6 +21,8 @@
     "factions": "multitext",
     "Wealdig": "multitext",
     "arenas": "multitext",
-    "date": "date"
+    "date": "date",
+    "family": "multitext",
+    "families": "multitext"
   }
 }

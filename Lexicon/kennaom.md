@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - complain
+English: [complain]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

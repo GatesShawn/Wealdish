@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - bleach
-  - whiten
+English: [bleach, whiten]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

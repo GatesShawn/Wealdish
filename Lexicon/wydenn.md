@@ -1,17 +1,16 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - vien
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [vien]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
+synonyms:
+antonyms:
 ---
+
 [[wyd]] + [[-enn]]

@@ -1,18 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: nöwɨð
-English:
-  - new
+English: [new]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*nöwɨð"
-Welsh:
-  - newydd
+Proto-Byrthonic: ["*nöwɨð"]
+Welsh: [newydd]
 Breton:
-Cornish:
-  - nowyth
+Cornish: [nowyth]
 cognates:
 synonyms:
 antonyms:

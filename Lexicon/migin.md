@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bog
+English: [bog]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*migɨn"
+Proto-Byrthonic: ["*migɨn"]
 Welsh:
 Breton:
 Cornish:
@@ -16,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
- 

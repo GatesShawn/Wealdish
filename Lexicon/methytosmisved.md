@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - calendar
+English: [calendar]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,8 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - chronology
+arenas: [chronology]
 ---
 
 [[methytosmis]] + [[-ved]]

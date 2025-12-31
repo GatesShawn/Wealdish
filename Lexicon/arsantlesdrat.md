@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - silversmith
-  - tinker
-  - tinsmith
+English: [silversmith, tinker, tinsmith]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

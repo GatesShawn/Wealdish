@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - seeds (of the same type)
+English: [seeds (of the same type)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

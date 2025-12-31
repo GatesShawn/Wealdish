@@ -1,15 +1,12 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - excerpt
-  - quote
+English: [excerpt, quote]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - tennad
+Breton: [tennad]
 Cornish:
 cognates:
 synonyms:

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - earth
-  - ground
+English: [earth, ground]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

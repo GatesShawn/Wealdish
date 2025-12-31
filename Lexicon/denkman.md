@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - dye
-  - tincture
+English: [dye, tincture]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[denk]] + [[-man]] 
+[[denk]] + [[-man]]

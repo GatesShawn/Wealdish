@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Gnarls of multiply types
+English: [Gnarls of multiply types]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - zoology
-  - biology
+arenas: [biology, zoology]
 ---
 
  [[narlwirosenn]] + [[-ou]]

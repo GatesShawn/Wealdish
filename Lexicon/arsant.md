@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - silver (metal)
-  - tin (metal)
+English: [silver (metal), tin (metal)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

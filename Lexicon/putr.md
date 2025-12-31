@@ -21,4 +21,5 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - biology
 ---

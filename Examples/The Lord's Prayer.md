@@ -1,8 +1,6 @@
 ---
-English:
-  - The Lord's Prayer
-categories:
-  - examples
+categories: [examples]
+English: [The Lord's Prayer]
 date:
 ---
 
@@ -40,26 +38,26 @@ Hon Tad,
 c'hwi hag a zo en Neñv,
 ra vo santelaet hoc'h anv.
 Ra zeuio ho Rouantelezh.
-Ra vo graet ho youl war 
+Ra vo graet ho youl war
 an douar evel en neñv.
 Roit dimp hiziv bara hor bevañs.
-Distaolit dimp hon dleoùevel m'hor 
+Distaolit dimp hon dleoùevel m'hor
 bo ivez distaolet d'hon dleourion.
 Ha n'hon lezit ket da vont gant an temptadur,
 met hon dieubit eus an Droug.
 
 ## Cornish
-Agan Tâs | Agan Tas-ny, 			
-ny neb es en | Nêv	us yn nef,			
-Benygys re bo dha Hanow,			
-Re dheffo dha wlascor,			
-Dha voth re bo gwres,			
-Y’n nor kepar hag y’n nef.			
-Ro dhyn-ny hedhyu agan bara pup deth-oll;			
-Ha gaf dhyn agan camwyth,			
-Kepar del aven-nhny dhe’n re-na us ow camwul er agan pyn-ny;			
-Ha na wra agan gorra yn temptasyon,			
-Mes delyrf ny dyworth drok.			
-Rag dhyso-jy yu an wlascor,			
-Ha’n gallos, ha’n gordhyans,			
-Bys vyken ha bynary. Amen			
+Agan Tâs | Agan Tas-ny,
+ny neb es en | Nêv	us yn nef,
+Benygys re bo dha Hanow,
+Re dheffo dha wlascor,
+Dha voth re bo gwres,
+Y’n nor kepar hag y’n nef.
+Ro dhyn-ny hedhyu agan bara pup deth-oll;
+Ha gaf dhyn agan camwyth,
+Kepar del aven-nhny dhe’n re-na us ow camwul er agan pyn-ny;
+Ha na wra agan gorra yn temptasyon,
+Mes delyrf ny dyworth drok.
+Rag dhyso-jy yu an wlascor,
+Ha’n gallos, ha’n gordhyans,
+Bys vyken ha bynary. Amen

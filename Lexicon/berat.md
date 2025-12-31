@@ -1,19 +1,12 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - carry
-  - flow
+English: [carry, flow]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*bėrɨd"
-Welsh:
-  - beru
-Breton:
-  - beraff
-  - berañ
+Proto-Byrthonic: ["*bėrɨd"]
+Welsh: [beru]
+Breton: [beraff, berañ]
 Cornish:
 cognates:
 synonyms:

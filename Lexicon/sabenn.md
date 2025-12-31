@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - pine tree
+English: [pine tree]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

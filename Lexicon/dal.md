@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Verb
+Parts of Speech: [Noun, Verb]
 IPA: dal
-English:
-  - forehead
-  - pay
+English: [forehead, pay]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,7 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
+arenas: [anatomy, biology]
 ---

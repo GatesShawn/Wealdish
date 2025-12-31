@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA: r̥ʊg
-English:
-  - between
+English: [between]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - rwg
+Welsh: [rwg]
 Breton:
 Cornish:
 cognates:

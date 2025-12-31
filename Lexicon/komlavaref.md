@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - arbitration
-  - discourse
-  - discussion
+English: [arbitration, discourse, discussion]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
 
-[[kom-]] + [[lavar]] + [[-ef]] 
+[[kom-]] + [[lavar]] + [[-ef]]

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - salted
+English: [salted]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

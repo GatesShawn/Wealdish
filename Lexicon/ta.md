@@ -1,11 +1,8 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - to
-Proto-Indo-European:
-  - "*do"
+English: [to]
+Proto-Indo-European: ["*do"]
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:

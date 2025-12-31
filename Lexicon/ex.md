@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - out of
+English: [out of]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*ex"
+Proto-Byrthonic: ["*ex"]
 Welsh:
 Breton:
 Cornish:

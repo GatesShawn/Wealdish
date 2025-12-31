@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: bɪd
-English:
-  - world
+English: [world]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

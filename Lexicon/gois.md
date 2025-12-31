@@ -1,18 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - spear
+English: [spear]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*gaisos"
+Proto-Celtic: ["*gaisos"]
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - guugoiou
-Cornish:
-  - hoch-wuyu
+Breton: [guugoiou]
+Cornish: [hoch-wuyu]
 cognates:
 synonyms:
 antonyms:

@@ -1,19 +1,13 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Verbnoun
+English: [Verbnoun]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*-ọβ̃"
-Welsh:
-  - -aw
-  - -o
+Proto-Byrthonic: ["*-ọβ̃"]
+Welsh: [-aw, -o]
 Breton:
-Cornish:
-  - -e
+Cornish: [-e]
 ---
 
 Forms verbal nouns, originally from ā-verbs.

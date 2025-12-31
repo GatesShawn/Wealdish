@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - loose
-  - release
+English: [loose, release]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

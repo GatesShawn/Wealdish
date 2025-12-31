@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - flies
+English: [flies]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,11 +11,8 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 
 [[pedmanenn]] + [[-ou]]
 A number of different kinds of flies.
- 

@@ -1,6 +1,6 @@
 ---
 Parts of Speech:
-  - Adjective 
+  - Adjective
   - Noun
 IPA:
 English:
@@ -15,6 +15,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - mathematics
 ---
 
 [[pedved]] [[warn]] [[gend]]

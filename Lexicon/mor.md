@@ -1,16 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - great
-  - large
-  - sea
+English: [great, large, sea]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*mor"
+Proto-Byrthonic: ["*mor"]
 Welsh:
 Breton:
 Cornish:

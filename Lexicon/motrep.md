@@ -1,18 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - aunt
+English: [aunt]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*mọdreb"
+Proto-Byrthonic: ["*mọdreb"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---

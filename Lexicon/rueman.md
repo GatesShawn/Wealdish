@@ -1,18 +1,14 @@
 ---
-Parts of Speech:
-  - Noun
-Proto-Byrthonic:
+Parts of Speech: [Noun]
+IPA:
+English: [homily, sermon]
+Proto-Indo-European: ["*sermō"]
 Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-IPA:
-English:
-  - sermon
-  - homily
-Proto-Indo-European:
-  - "*sermō"
-arenas:
-  - theology 
+arenas: [theology]
 ---
+
 [[ruem]] + [[-man]]

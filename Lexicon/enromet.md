@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adverb
+Parts of Speech: [Adverb]
 IPA:
-English:
-  - oddly
+English: [oddly]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

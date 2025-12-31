@@ -14,6 +14,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - grammar
 ---
 
 "likely case (""when that happens"")"

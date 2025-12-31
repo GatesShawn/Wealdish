@@ -1,18 +1,15 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - berries
+English: [berries]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*aɨron"
+Proto-Byrthonic: ["*aɨron"]
 Welsh:
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - botany
+arenas: [botany]
 ---

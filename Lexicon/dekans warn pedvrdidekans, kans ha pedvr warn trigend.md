@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "9164"
-  - nine thousand one hundred and sixty four 
+English: ["9164", nine thousand one hundred and sixty four]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,7 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---
 
 [[dekans]] [[warn]] [[pedvrdidekans]], [[kans]] [[ha, hag]] [[pedvr]] [[warn]] [[trigend]]

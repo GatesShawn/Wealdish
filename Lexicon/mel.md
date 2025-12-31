@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: mɛl
-English:
-  - honey
-  - marrow
+English: [honey, marrow]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,9 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - biology
-  - food
+arenas: [anatomy, biology, food]
 ---
-	
