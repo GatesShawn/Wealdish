@@ -1,4 +1,4 @@
 ---
 categories: [blazons, examples]
-English: [a crescent decrescent Argent, Paly of 6 Gules and Vert]
+English: [A Paly of 6 Gules and Vert crescent decrescent Argent]
 ---

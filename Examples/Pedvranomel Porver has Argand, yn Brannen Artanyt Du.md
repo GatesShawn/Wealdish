@@ -1,5 +1,5 @@
 ---
 categories: [blazons, examples]
-English: [a Raven Displayed Sable, Quarterly Purpure and Argent]
+English: ["Quarterly Purpure and Argent, a Raven Displayed Sable"]
 date:
 ---
