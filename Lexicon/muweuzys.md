@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - moting
+English: [moting]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,5 +14,5 @@ antonyms:
 arenas:
 ---
 
-present participle 
+present participle
 [[muweuz]] + [[-ys]]

@@ -14,6 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - sociology
+  - economics
 ---
 
-[[pesk]]  + [[werza]] + [[-at]] 
+[[pesk]]  + [[werza]] + [[-at]]

@@ -1,19 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - fort
-  - fortress
+English: [fort, fortress]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kaɨr"
+Proto-Byrthonic: ["*kaɨr"]
 Welsh:
-Breton:
-  - caer
-Cornish:
-  - caer
+Breton: [caer]
+Cornish: [caer]
 cognates:
 synonyms:
 antonyms:

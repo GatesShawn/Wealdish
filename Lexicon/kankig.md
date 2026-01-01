@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - twig
+English: [twig]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,3 +13,5 @@ synonyms:
 antonyms:
 arenas:
 ---
+
+[[kank]] + [[-ig]]

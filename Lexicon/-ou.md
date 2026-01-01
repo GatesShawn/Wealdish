@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Plural Suffix
+English: [Plural Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - -ou
-Cornish:
-  - -ow
+Breton: [-ou]
+Cornish: [-ow]
 synonyms:
 antonyms:
 ---

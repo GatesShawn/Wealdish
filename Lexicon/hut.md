@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: hūt
-English:
-  - charm
-  - magic
+English: [charm, magic]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

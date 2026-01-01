@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - crotch
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [crotch]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - biology
-  - anatomy
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
-[[bolg]]  + [[-el]]  + [[-oc]] 
+
+[[bolg]]  + [[-el]]  + [[-oc]]

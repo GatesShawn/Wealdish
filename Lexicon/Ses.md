@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Englishman
+English: [Englishman]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*Sėɨs"
+Proto-Byrthonic: ["*Sėɨs"]
 Welsh:
 Breton:
 Cornish:

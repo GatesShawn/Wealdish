@@ -1,11 +1,8 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - hat
-Proto-Indo-European:
-  - "*kadʰ-"
+English: [hat]
+Proto-Indo-European: ["*kadʰ-"]
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:

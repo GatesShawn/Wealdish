@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
-  - Verbnoun
+Parts of Speech: [Verb, Verbnoun]
 IPA:
-English:
-  - mold
+English: [mold]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
- [[luet]] + [[-a, -out]] 
+ [[luet]] + [[-a, -out]]

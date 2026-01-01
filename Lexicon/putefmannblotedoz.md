@@ -14,6 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - biology
+  - mycology
 ---
 
 [[putefmannblot]] +[[-edoz]]

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kil
-English:
-  - back
-  - corner
+English: [back, corner]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,10 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - anatomy
-  - architecture
-  - biology
-  - engineering
-  - geometry
+arenas: [anatomy, architecture, biology, engineering, geometry]
 ---

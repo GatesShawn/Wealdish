@@ -1,16 +1,12 @@
 ---
-Parts of Speech:
-  - Determiner
+Parts of Speech: [Determiner]
 IPA:
-English:
-  - some
+English: [some]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - rhyw
-Breton:
-  - reizh
+Welsh: [rhyw]
+Breton: [reizh]
 Cornish:
 cognates:
 synonyms:

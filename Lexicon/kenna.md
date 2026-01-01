@@ -1,16 +1,12 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - complaint
+English: [complaint]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - cywn
-Breton:
-  - keina
+Welsh: [cywn]
+Breton: [keina]
 Cornish:
 cognates:
 synonyms:

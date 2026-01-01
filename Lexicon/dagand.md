@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - chocking
-  - suffocation
+English: [chocking, suffocation]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

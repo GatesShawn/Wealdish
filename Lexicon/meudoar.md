@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - mud
+English: [mud]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

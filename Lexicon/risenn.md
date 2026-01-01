@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - rice (singlautive)
+English: [rice (singlautive)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

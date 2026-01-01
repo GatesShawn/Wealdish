@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - her(s)
+English: [her(s)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - he
-Cornish:
-  - Î
+Breton: [he]
+Cornish: [Î]
 cognates:
 synonyms:
 antonyms:

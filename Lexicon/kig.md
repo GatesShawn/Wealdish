@@ -1,21 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - meat
+English: [meat]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kig"
-Welsh:
-  - cig
-  - kic
-Breton:
-  - kig
-Cornish:
-  - cic
-  - kig
+Proto-Byrthonic: ["*kig"]
+Welsh: [cig, kic]
+Breton: [kig]
+Cornish: [cic, kig]
 cognates:
 synonyms:
 antonyms:

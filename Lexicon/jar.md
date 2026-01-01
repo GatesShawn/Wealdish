@@ -1,19 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: jar
-English:
-  - chickens
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [chickens]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---

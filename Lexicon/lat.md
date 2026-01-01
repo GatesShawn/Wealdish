@@ -1,15 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
-  - Verb
+Parts of Speech: [Noun, Verb]
 IPA:
-English:
-  - murder
-  - slaughter
+English: [murder, slaughter]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - llað
+Proto-Byrthonic: [llað]
 Welsh:
 Breton:
 Cornish:

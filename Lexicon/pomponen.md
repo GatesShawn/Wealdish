@@ -14,6 +14,10 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - food
+  - agriculture
+  - biology
+  - botany
 ---
 
 [[pompon]] + [[-enn]]

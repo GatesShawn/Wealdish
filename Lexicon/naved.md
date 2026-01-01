@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective 
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - ninth
+English: [ninth]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

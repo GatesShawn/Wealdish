@@ -1,9 +1,8 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
+categories: [Wealdtober]
 IPA:
-English:
-  - barrow-ash dye
+English: [barrow-ash dye]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +12,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-categories:
-  - Wealdtober
+arenas: [textiles]
 date: 2024-10-01
 ---
 

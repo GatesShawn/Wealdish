@@ -1,6 +1,5 @@
 ---
+categories: [examples]
 English:
-categories:
-  - examples
 date:
 ---

@@ -1,7 +1,6 @@
 ---
-English:
-  - The Hairy
-categories:
-  - examples
-  - tarot
+categories: [examples, tarot]
+English: [The Hairy]
 ---
+
+[[an]] [[kenedoz]]

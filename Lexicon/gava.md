@@ -1,16 +1,13 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - forgive
+English: [forgive]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
 Breton:
-Cornish:
-  - gava
+Cornish: [gava]
 cognates:
 synonyms:
 antonyms:

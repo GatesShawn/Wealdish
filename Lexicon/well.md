@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - desirable
-  - good
+English: [desirable, good]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

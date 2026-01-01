@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - give
+English: [give]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-cognates:
-  - "[[rey]]"
+cognates: ["[[rey]]"]
 synonyms:
 antonyms:
 arenas:
 ---
 
-Second Person Imperative 
+Second Person Imperative

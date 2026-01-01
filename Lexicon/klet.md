@@ -1,22 +1,14 @@
 ---
-Parts of Speech:
-  - Adjective 
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - left
-  - northern
-antonyms:
-  - "[[texow]]"
-synonyms:
-Proto-Byrthonic:
-  - "*kleð"
-Proto-Celtic:
+English: [left, northern]
 Proto-Indo-European:
-Welsh:
-  - cledd
-Breton:
-  - kleiz
-Cornish:
-  - kledh
+Proto-Celtic: ["*kliyā"]
+Proto-Byrthonic: ["*kleð"]
+Welsh: [cledd]
+Breton: [kleiz]
+Cornish: [kledh]
+synonyms:
+antonyms: ["[[texow]]"]
 ---
 

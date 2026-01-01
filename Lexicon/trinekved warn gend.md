@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - thirty-third
+English: [thirty-third]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

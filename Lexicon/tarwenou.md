@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bulls
+English: [bulls]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - zoology
-  - biology
+arenas: [biology, zoology]
 ---

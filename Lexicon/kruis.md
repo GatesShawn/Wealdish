@@ -1,16 +1,13 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - cross
+English: [cross]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kruɨs"
+Proto-Byrthonic: ["*kruɨs"]
 Welsh:
 Breton:
-Cornish:
-  - crois
+Cornish: [crois]
 cognates:
 synonyms:
 antonyms:

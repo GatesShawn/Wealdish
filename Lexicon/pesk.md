@@ -1,22 +1,19 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - fish
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [fish]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---
-fish (collective)	
-fish (singular)	
-fishes	
+
+fish (collective)
+fish (singular)
+fishes

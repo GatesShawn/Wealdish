@@ -1,16 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - bleached
-  - white
-Proto-Indo-European:
-  - "*(s)kand-"
+English: [bleached, white]
+Proto-Indo-European: ["*(s)kand-"]
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - can
+Welsh: [can]
 Breton:
 Cornish:
 cognates:

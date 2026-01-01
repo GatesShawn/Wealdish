@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - beautiful
+English: [beautiful]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---

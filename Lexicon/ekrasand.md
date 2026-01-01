@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - decrescent
+English: [decrescent]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,8 +10,6 @@ Breton:
 Cornish:
 cognates:
 synonyms:
-antonyms:
-  - "[[kilkand]]"
+antonyms: ["[[kilkand]]"]
 arenas:
 ---
-	

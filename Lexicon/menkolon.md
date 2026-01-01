@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - column
+English: [column]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

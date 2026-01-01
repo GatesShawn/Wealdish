@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Split Fibrecaps
+English: [Split Fibrecaps]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,7 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - mycology 
-  - biology
+arenas: [biology, mycology]
 ---

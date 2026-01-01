@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Autumn
-  - Fall
+English: [Autumn, Fall]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,5 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [chronology]
 ---

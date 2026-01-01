@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Indicitive Imperfect Participle Suffix
-  - Masculine Suffix
+English: [Indicitive Imperfect Participle Suffix, Masculine Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

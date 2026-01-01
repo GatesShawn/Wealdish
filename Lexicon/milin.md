@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA: mɪlɪn
-English:
-  - yellow
+English: [yellow]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

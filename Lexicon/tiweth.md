@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - end
+English: [end]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*diweð"
+Proto-Byrthonic: ["*diweð"]
 Welsh:
 Breton:
 Cornish:

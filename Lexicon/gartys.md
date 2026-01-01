@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Verb]
 IPA:
-English:
-  - guarding
+English: [guarding]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

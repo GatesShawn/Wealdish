@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - stink
+English: [stink]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - drewi
+Welsh: [drewi]
 Breton:
 Cornish:
 cognates:

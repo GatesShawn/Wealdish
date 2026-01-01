@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - acorns, seeds, pits, stones, etc. in general
+English: [acorns, etc. in general, pits, seeds, stones]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - botany
+arenas: [biology, botany, ecology]
 ---
 
 [[iryn]] + [[-ou]]

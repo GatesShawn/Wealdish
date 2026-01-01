@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - able
+English: [able]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - from
+English: [from]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

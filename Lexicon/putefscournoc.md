@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - rothares
-  - shroomhares
+English: [rothares, shroomhares]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,10 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - zoology
-  - biology
-  - mycology 
+arenas: [biology, mycology, zoology]
 ---
 
 [[putef]] + [[scournoc]]

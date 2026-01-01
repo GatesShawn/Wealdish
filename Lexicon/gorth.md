@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: gorθ
-English:
-  - enclosure
-  - garden
+English: [enclosure, garden]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gorθ"
+Proto-Byrthonic: ["*gorθ"]
 Welsh:
 Breton:
 Cornish:

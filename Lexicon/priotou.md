@@ -1,5 +1,6 @@
 ---
 Parts of Speech:
+  - Noun
 IPA:
 English:
   - spouses
@@ -13,6 +14,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - sociology
 ---
 
 [[priot]] + [[-ou]]

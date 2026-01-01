@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - fortunate
-  - lucky
+English: [fortunate, lucky]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

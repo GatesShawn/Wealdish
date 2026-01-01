@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - well
+English: [well]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*dagos"
-Proto-Byrthonic:
-  - "*daɣ"
+Proto-Celtic: ["*dagos"]
+Proto-Byrthonic: ["*daɣ"]
 Welsh:
 Breton:
 Cornish:

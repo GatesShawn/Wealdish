@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - abandoned
+English: [abandoned]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,6 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
+arenas: [sociology]
 ---
 
-[[techeda]] + [[-os]] 
+[[techeda]] + [[-os]]

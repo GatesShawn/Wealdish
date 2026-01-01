@@ -1,13 +1,11 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bonfire
+English: [bonfire]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - coelcerth
+Welsh: [coelcerth]
 Breton:
 Cornish:
 cognates:

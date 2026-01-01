@@ -1,6 +1,5 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
 English:
 Proto-Indo-European:

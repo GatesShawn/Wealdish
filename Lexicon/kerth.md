@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - certain
+English: [certain]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kerθ"
+Proto-Byrthonic: ["*kerθ"]
 Welsh:
 Breton:
 Cornish:

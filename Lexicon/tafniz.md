@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - matters
+English: [matters]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*daβ̃neð"
+Proto-Byrthonic: ["*daβ̃neð"]
 Welsh:
 Breton:
 Cornish:

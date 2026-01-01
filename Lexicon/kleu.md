@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: kle̝μ
-English:
-  - sick
+English: [sick]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

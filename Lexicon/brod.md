@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - point
-  - tip
+English: [point, tip]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*brozdos"
+Proto-Byrthonic: ["*brozdos"]
 Welsh:
 Breton:
 Cornish:

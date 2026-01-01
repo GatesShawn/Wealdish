@@ -1,17 +1,11 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - dewlap
-  - gill
-  - jowl
-  - lamella
-  - wattle
+English: [dewlap, gill, jowl, lamella, wattle]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - tagell
+Welsh: [tagell]
 Breton:
 Cornish:
 cognates:

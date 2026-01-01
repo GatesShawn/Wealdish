@@ -1,16 +1,11 @@
 ---
-Parts of Speech:
-  - Preposition
-  - Verb
+Parts of Speech: [Preposition, Verb]
 IPA:
-English:
-  - show
-  - under
+English: [show, under]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - dangos
+Welsh: [dangos]
 Breton:
 Cornish:
 cognates:

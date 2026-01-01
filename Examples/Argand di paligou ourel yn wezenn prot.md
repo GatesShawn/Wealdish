@@ -1,8 +1,5 @@
 ---
-English:
-  - Argent two pallets or a tree proper
-categories:
-  - blazons
-  - examples
+categories: [blazons, examples]
+English: [Argent two pallets or a tree proper]
 date:
 ---

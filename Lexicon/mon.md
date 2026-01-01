@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - peat
+English: [peat]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*mọn"
+Proto-Byrthonic: ["*mọn"]
 Welsh:
 Breton:
 Cornish:

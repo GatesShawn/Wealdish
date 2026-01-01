@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - rags
+English: [rags]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

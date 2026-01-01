@@ -1,22 +1,15 @@
 ---
-Parts of Speech:
-  - Adjective 
-  - Noun
-Proto-Byrthonic:
+Parts of Speech: [Adjective, Noun]
+IPA:
+English: [crustacean, crustaceous, crusty, encrusted]
+Proto-Indo-European:
 Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-IPA:
-English:
-  - crustaceous
-  - crustacean 
-  - crusty
-  - encrusted 
-Proto-Indo-European:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
+
 [[kramen]] + [[-an]]
 

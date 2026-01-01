@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
-  - Numeral
+Parts of Speech: [Noun, Numeral]
 IPA:
-English:
-  - "100"
-  - hundred
+English: ["100", hundred]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
+arenas: [mathematics]
 ---

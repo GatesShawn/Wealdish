@@ -14,6 +14,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - zoology
+  - biology
 ---
 
-[[omtrasa]] + [[-at, -yat]] 
+[[omtrasa]] + [[-at, -yat]]

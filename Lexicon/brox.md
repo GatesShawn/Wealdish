@@ -1,20 +1,20 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: brox
-English:
-  - badger
-  - badgers
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [badger, badgers]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
+families: Mustelidae
 ---
+
+## Related Words
+![[Related Words.base#Mustelidae]]
+![[Related Words.base#Roots]]

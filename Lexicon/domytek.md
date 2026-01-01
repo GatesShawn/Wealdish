@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - overgrown
+English: [overgrown]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

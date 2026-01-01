@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: waɛldig
-English:
-  - thicket
+English: [thicket]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

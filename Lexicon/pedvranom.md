@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - quarter
+English: [quarter]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - pedrannu
+Welsh: [pedrannu]
 Breton:
 Cornish:
 cognates:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[pedvr]] + 
+[[pedvr]] +

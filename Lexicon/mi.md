@@ -1,17 +1,14 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - i
-  - me
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [i, me]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
+synonyms:
+antonyms:
 ---

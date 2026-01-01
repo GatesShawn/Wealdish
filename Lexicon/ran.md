@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - part
-  - section
+English: [part, section]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
 Breton:
-Cornish:
-  - rann
+Cornish: [rann]
 cognates:
 synonyms:
 antonyms:

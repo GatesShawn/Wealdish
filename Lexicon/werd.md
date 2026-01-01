@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - worth
+English: [worth]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gwerθ"
+Proto-Byrthonic: ["*gwerθ"]
 Welsh:
 Breton:
 Cornish:

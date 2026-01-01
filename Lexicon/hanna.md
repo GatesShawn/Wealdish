@@ -1,15 +1,12 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - that
+English: [that]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - hini
+Breton: [hini]
 Cornish:
 cognates:
 synonyms:

@@ -1,21 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - gall
-  - bile
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
-  - "*bistlo-"
+English: [bile, gall]
 Proto-Indo-European:
+Proto-Celtic: ["*bistlo-"]
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - biology
-  - anatomy
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---

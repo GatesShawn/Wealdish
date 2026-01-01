@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wood
-  - woods
+English: [wood, woods]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

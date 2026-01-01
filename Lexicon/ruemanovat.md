@@ -1,17 +1,14 @@
 ---
-Parts of Speech:
-  - Noun
-Proto-Byrthonic:
+Parts of Speech: [Noun]
+IPA:
+English: [preacher]
+Proto-Indo-European:
 Proto-Celtic:
-Welsh:
-  - pregethwr
+Proto-Byrthonic:
+Welsh: [pregethwr]
 Breton:
 Cornish:
-IPA:
-English:
-  - preacher 
-Proto-Indo-European:
-arenas:
-  - sociology 
+arenas: [sociology]
 ---
+
 [[ruemanov]] + [[-at, -yat]]

@@ -15,4 +15,5 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - sociology
 ---

@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - dry
+English: [dry]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - sɨx
+Proto-Byrthonic: [sɨx]
 Welsh:
 Breton:
-Cornish:
-  - sygh
+Cornish: [sygh]
 cognates:
 synonyms:
 antonyms:

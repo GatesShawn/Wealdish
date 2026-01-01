@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Preposition
+Parts of Speech: [Preposition]
 IPA:
-English:
-  - for
-  - in front of
-  - on
+English: [for, in front of, on]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

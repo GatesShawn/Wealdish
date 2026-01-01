@@ -1,21 +1,18 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - stag
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [stag]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - biology
-  - zoology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---
+
 		noun
 stags		noun

@@ -1,12 +1,7 @@
 ---
-Parts of Speech:
-  - Past Particple
-  - Verb
+Parts of Speech: [Past Particple, Verb]
 IPA:
-English:
-  - fixed 
-  - mended
-  - repaired
+English: [fixed, mended, repaired]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

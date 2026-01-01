@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - fate
-  - fortune
-  - luck
+English: [fate, fortune, luck]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[dlokid]] + [[-yt]] 
+[[dlokid]] + [[-yt]]

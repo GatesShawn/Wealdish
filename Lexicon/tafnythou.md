@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - materials
-  - substances
+English: [materials, substances]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

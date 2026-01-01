@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - haunted
+English: [haunted]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,5 +14,5 @@ antonyms:
 arenas:
 ---
 
-[[sperede]] + [[-yt]] 
-Past Participle 
+[[sperede]] + [[-yt]]
+Past Participle

@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - willow tree
+English: [willow tree]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

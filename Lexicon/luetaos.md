@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - moldy
-  - mouldy
+English: [moldy, mouldy]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

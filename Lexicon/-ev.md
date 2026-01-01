@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Verbnoun Suffix
+English: [Verbnoun Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

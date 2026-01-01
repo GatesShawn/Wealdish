@@ -1,8 +1,7 @@
 ---
 Parts of Speech:
 IPA:
-English:
-  - eleventh
+English: [eleventh]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

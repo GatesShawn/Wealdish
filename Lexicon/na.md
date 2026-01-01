@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - boat
+English: [boat]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*nawa"
+Proto-Celtic: ["*nawa"]
 Proto-Byrthonic:
 Welsh:
 Breton:

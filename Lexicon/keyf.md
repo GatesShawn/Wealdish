@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - tree trunks
+English: [tree trunks]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,10 +11,6 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - botany
-  - ecology
-  - forestry
+arenas: [biology, botany, ecology, forestry]
 ---
 

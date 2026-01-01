@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: nɛμ
-English:
-  - heaven
+English: [heaven]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

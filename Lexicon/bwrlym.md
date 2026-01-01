@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bubble
+English: [bubble]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - bwrlwm
+Welsh: [bwrlwm]
 Breton:
 Cornish:
 cognates:

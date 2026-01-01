@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - marsh
-  - swamp
-  - toads
+English: [marsh, swamp, toads]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,10 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - ecology
-  - zoology
+arenas: [biology, ecology, zoology]
 ---
 
  [[prat]] + [[tor]]

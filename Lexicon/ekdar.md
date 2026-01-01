@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - strange
+English: [strange]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*ektro"
+Proto-Celtic: ["*ektro"]
 Proto-Byrthonic:
 Welsh:
 Breton:

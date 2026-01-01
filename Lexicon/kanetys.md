@@ -1,23 +1,17 @@
 ---
-Parts of Speech:
-  - Present Participle
-  - Verb
+Parts of Speech: [Present Participle, Verb]
 IPA:
-English:
-  - singing
+English: [singing]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - caniad
+Welsh: [caniad]
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - music
-  - sociology
+arenas: [music, sociology]
 ---
 
 [[kanet]] + [[-ys]]

@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: me̝rxɛnnɛs
-English:
-  - mare
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [mare]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - zoology
-  - biology
+synonyms:
+antonyms:
+arenas: [biology, zoology]
 ---
+
 [[merxenn]] + [[-es]]

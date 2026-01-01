@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - Bleached Brittlegill
+English: [Bleached Brittlegill]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - mycology
+arenas: [biology, mycology]
 ---
 
 [[dagandell]] + [[brus]] [[kan]]

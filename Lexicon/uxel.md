@@ -1,17 +1,13 @@
 ---
-Parts of Speech:
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - elevated
-  - high
+English: [elevated, high, loud]
 Proto-Indo-European:
-Proto-Celtic:
-Proto-Byrthonic:
-Welsh:
-Breton:
-  - uchel
-Cornish:
-  - ughel
+Proto-Celtic: ["*ouxselos"]
+Proto-Byrthonic: ["*ʉxel"]
+Welsh: [uchel]
+Breton: [uchel]
+Cornish: [ughel]
 cognates:
 synonyms:
 antonyms:

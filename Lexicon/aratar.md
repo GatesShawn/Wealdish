@@ -1,13 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - plow
-Proto-Indo-European:
-Proto-Celtic:
-Proto-Byrthonic:
-Welsh:
+English: [plough, plow]
+Proto-Indo-European: ["*h₂érh₃trom"]
+Proto-Celtic: ["*aratrom"]
+Proto-Byrthonic: ["*aradr"]
+Welsh: [ara(ter), aradr]
 Breton:
 Cornish:
 cognates:

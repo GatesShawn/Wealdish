@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - odd
+English: [odd]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - rhyfedd
+Welsh: [rhyfedd]
 Breton:
 Cornish:
 cognates:

@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Verbnoun
+English: [Verbnoun]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - -io
+Welsh: [-io]
 Breton:
 Cornish:
 ---

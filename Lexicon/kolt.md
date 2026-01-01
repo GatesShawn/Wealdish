@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - lost
+English: [lost]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - coll
+Welsh: [coll]
 Breton:
 Cornish:
 cognates:

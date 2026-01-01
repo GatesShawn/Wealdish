@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - increscent
+English: [increscent]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

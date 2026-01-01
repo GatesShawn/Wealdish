@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - form
-  - shape
+English: [form, shape]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

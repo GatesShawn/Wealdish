@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - parchment
+English: [parchment]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,4 +13,5 @@ synonyms:
 antonyms:
 arenas:
 ---
- 	
+
+[[gœvr]] + [[kron]]

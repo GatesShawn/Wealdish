@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - blessing
+English: [blessing]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,5 +14,5 @@ antonyms:
 arenas:
 ---
 
-Present Imperfect 
+Present Imperfect
 [[bennod]] + [[-ys]]

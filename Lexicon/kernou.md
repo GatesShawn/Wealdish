@@ -1,19 +1,16 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kernoù
-English:
-  - horns of different kinds
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [horns of different kinds]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
-arenas:
-  - anatomy
-  - biology
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
+
 [[kern]] + [[-ou]]

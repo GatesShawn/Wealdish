@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - these
+English: [these]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

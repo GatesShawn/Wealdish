@@ -1,25 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - year
+English: [year]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - blynedd
-Breton:
-  - blened
-  - bloaz
-Cornish:
-  - bloodh
-cognates:
-  - "[[bleten]]"
+Welsh: [blynedd]
+Breton: [blened, bloaz]
+Cornish: [bloodh]
+cognates: ["[[bleten]]"]
 synonyms:
 antonyms:
-arenas:
-  - chronology
+arenas: [chronology]
 ---
 
 (of age)

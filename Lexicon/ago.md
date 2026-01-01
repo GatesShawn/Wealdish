@@ -1,21 +1,16 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - their
-  - thiers
+English: [their, thiers]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
-Breton:
-  - o
-Cornish:
-  - aga
+Breton: [o]
+Cornish: [aga]
 cognates:
 synonyms:
 antonyms:
 ---
 
-possessive																								
+possessive

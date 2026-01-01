@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: kɪf
-English:
-  - log
-  - pole
+English: [log, pole]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

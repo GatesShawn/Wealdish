@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - quartered
+English: [quartered]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,6 +14,6 @@ antonyms:
 arenas:
 ---
 
-Past participle 
+Past participle
 
 [[pedvranom]] + [[-yt]]

@@ -1,20 +1,17 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Abstract Noun Suffix
+English: [Abstract Noun Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - -aint
+Welsh: [-aint]
 Breton:
 Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [grammar]
 ---
 
 forming abstract nouns, -ness, -ment

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - divide
-  - portion
+English: [divide, portion]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

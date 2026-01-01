@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - script
-  - typeface
+English: [script, typeface]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

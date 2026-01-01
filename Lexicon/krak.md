@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - barrow
+English: [barrow]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*krowkos"
+Proto-Celtic: ["*krowkos"]
 Proto-Byrthonic:
 Welsh:
 Breton:

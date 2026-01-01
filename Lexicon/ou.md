@@ -16,6 +16,7 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - grammar
 ---
 
 possessive

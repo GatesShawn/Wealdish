@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - think
+English: [think]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*manyetor"
+Proto-Celtic: ["*manyetor"]
 Proto-Byrthonic:
 Welsh:
 Breton:

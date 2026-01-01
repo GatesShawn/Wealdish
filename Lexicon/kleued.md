@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA: kle̝μɪd
-English:
-  - sickness
+English: [sickness]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

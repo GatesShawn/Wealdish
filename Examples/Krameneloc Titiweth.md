@@ -1,9 +1,6 @@
 ---
-English:
-  - Endless Pastry
-categories:
-  - examples
-  - Wealdtober
+categories: [examples, Wealdtober]
+English: [Endless Pastry]
 date: 2024-10-09
 ---
 

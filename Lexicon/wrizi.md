@@ -1,19 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - roots
+English: [roots]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*wradyos"
-Welsh:
-  - gwraidd
-Breton:
-  - gwriz
-Cornish:
-  - gwreydh
+Proto-Byrthonic: ["*wradyos"]
+Welsh: [gwraidd]
+Breton: [gwriz]
+Cornish: [gwreydh]
 cognates:
 synonyms:
 antonyms:

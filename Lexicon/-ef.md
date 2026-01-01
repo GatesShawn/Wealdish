@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Abstract Noun Suffix
-  - Structure Suffix
+English: [Abstract Noun Suffix, Structure Suffix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,6 +10,7 @@ Breton:
 Cornish:
 synonyms:
 antonyms:
+arenas: [grammar]
 ---
 
 Forms abstract nouns; -ness, -ment.

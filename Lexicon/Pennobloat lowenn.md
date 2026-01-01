@@ -1,9 +1,6 @@
 ---
-English:
-  - Happy Birthday
-categories:
-  - examples
-  - phrases
+categories: [examples, phrases]
+English: [Happy Birthday]
 ---
 
 [[pennobloat]] [[lowenn]]

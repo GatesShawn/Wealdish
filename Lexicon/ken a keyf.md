@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - lichen on a tree trunk
+English: [lichen on a tree trunk]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

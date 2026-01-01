@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: tʉll
-English:
-  - holes
+English: [holes]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

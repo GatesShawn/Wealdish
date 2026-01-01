@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - equinox
+English: [equinox]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

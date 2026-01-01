@@ -1,13 +1,11 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - contest
+English: [bout, competition, contest, duel, game, match]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
+Welsh: [gornest]
 Breton:
 Cornish:
 cognates:

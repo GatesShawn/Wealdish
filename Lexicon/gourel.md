@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - masculine
+English: [masculine]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

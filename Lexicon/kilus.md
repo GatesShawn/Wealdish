@@ -1,16 +1,11 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - elusive
-  - shy
+English: [elusive, shy]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - cywilyddus
-  - swil
+Welsh: [cywilyddus, swil]
 Breton:
 Cornish:
 cognates:

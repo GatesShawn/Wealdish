@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - doubtful
-  - suspicious
+English: [doubtful, suspicious]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

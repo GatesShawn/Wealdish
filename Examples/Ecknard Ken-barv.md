@@ -1,10 +1,6 @@
 ---
-English:
-  - Ecknard Lichen-beard
-categories:
-  - examples
-  - people
-  - Wealdtober
+categories: [examples, people, Wealdtober]
+English: [Ecknard Lichen-beard]
 date: 2024-10-05
 ---
 

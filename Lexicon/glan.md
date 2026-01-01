@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - clean
-  - clear
+English: [clean, clear]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*glan"
+Proto-Byrthonic: ["*glan"]
 Welsh:
 Breton:
 Cornish:

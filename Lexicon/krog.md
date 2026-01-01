@@ -1,20 +1,14 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - shells
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [shells]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
-Breton:
-  - krog
-Cornish:
-  - krog
-arenas:
-  - biology
-  - anatomy
+Breton: [krog]
+Cornish: [krog]
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---

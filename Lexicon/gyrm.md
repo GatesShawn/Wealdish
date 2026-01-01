@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - dark brown
+English: [dark brown]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*gurm"
+Proto-Byrthonic: ["*gurm"]
 Welsh:
 Breton:
 Cornish:
@@ -17,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
- 

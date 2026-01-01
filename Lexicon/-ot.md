@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Suffix
+Parts of Speech: [Suffix]
 IPA:
-English:
-  - Denominative Suffix
+English: [Denominative Suffix]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*-āti"
-Proto-Byrthonic:
-  - "*-ọd"
+Proto-Celtic: ["*-āti"]
+Proto-Byrthonic: ["*-ọd"]
 Welsh:
 Breton:
 Cornish:

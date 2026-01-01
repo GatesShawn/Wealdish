@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - grown
+English: [grown]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +15,5 @@ arenas:
 ---
 
 Past Particple
+[[dom]] + [[-yt]]
 as life not specifically in size

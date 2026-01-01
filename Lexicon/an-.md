@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Negative Prefix
+English: [Negative Prefix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - assembly
-  - meeting
+English: [assembly, meeting]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

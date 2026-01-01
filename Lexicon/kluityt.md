@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - heard
+English: [heard]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -17,4 +15,4 @@ arenas:
 ---
 
 [[kluit]] + [[-yt]]
-Past Participle 
+Past Participle

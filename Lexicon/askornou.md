@@ -1,21 +1,17 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - bones
-antonyms:
-synonyms:
-Proto-Byrthonic:
-Proto-Celtic:
+English: [bones]
 Proto-Indo-European:
+Proto-Celtic:
+Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
 cognates:
-arenas:
-  - biology
-  - anatomy
+synonyms:
+antonyms:
+arenas: [anatomy, biology]
 ---
-	
+
 [[askorn]] + [[-ou]]

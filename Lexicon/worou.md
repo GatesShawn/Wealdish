@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - sisters
+English: [sisters]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

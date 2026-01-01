@@ -1,28 +1,17 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - sing
+English: [sing]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*kaneti"
-Proto-Byrthonic:
-  - kėnɨd
-Welsh:
-  - canam
-  - canu
-Breton:
-  - canaff
-  - kanañ
-Cornish:
-  - kana
+Proto-Celtic: ["*kaneti"]
+Proto-Byrthonic: [kėnɨd]
+Welsh: [canam, canu]
+Breton: [canaff, kanañ]
+Cornish: [kana]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - music
-  - sociology
+arenas: [music, sociology]
 ---
 
 [[kan]] + [[-et]]

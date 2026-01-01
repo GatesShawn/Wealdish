@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - hell
+English: [hell]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,10 +10,8 @@ Breton:
 Cornish:
 cognates:
 synonyms:
-antonyms:
-  - "[[neu]]"
-arenas:
-  - theology
+antonyms: ["[[neu]]"]
+arenas: [theology]
 ---
 
 from Latin inferna

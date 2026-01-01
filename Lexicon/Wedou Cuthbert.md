@@ -1,9 +1,6 @@
 ---
-English:
-  - Widow Cuthbert
-categories:
-  - examples
-  - people
+categories: [examples, people]
+English: [Widow Cuthbert]
 ---
 
 [[wedou]] + Cuthbert

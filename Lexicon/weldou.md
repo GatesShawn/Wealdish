@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA: wɛldou
-English:
-  - grasses
+English: [grasses]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

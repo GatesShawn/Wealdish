@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - your (dual)
+English: [your (dual)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

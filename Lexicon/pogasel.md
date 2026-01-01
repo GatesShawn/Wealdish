@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - pixie-like
-  - spritely
+English: [pixie-like, spritely]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

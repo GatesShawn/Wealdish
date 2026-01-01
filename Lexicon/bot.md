@@ -1,21 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
-  - Verb
+Parts of Speech: [Noun, Verb]
 IPA:
-English:
-  - be
-  - dirty
-  - hut
-  - soil
+English: [be, dirty, hut, soil]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - baeddu
+Welsh: [baeddu]
 Breton:
-Cornish:
-  - bos
+Cornish: [bos]
 cognates:
 synonyms:
 antonyms:

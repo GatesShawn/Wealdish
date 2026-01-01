@@ -1,14 +1,11 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - stinking
+English: [stinking]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - drewi
+Welsh: [drewi]
 Breton:
 Cornish:
 cognates:
@@ -17,5 +14,5 @@ antonyms:
 arenas:
 ---
 
-Present Participle 
+Present Participle
 [[trew]] + [[-ys]]

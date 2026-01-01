@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verbnoun
+Parts of Speech: [Verbnoun]
 IPA:
-English:
-  - connect
+English: [connect]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - sibling
+English: [sibling]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -16,5 +14,5 @@ antonyms:
 arenas:
 ---
 
-Shorted from: 
-[[brotor]] + [[nou]]+ [[wor]] + [[nou]] + [[oll]]	
+Shorted from:
+[[brotor]] + [[nou]]+ [[wor]] + [[nou]] + [[oll]]

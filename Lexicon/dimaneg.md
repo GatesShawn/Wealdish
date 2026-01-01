@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - gloves
+English: [gloves]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - maneg
+Proto-Byrthonic: [maneg]
 Welsh:
 Breton:
 Cornish:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - carrot
+English: [carrot]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,10 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - botany
-  - food
+arenas: [biology, botany, food]
 ---
 
 [[urken]] + [[-enn]]

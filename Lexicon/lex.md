@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: lɛx
-English:
-  - flat stone
-  - light
+English: [flat stone, light]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

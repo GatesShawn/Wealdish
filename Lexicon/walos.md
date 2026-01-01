@@ -1,11 +1,7 @@
 ---
-Parts of Speech:
-  - Adjective
-  - Noun
+Parts of Speech: [Adjective, Noun]
 IPA:
-English:
-  - wolves
-  - wretched
+English: [wolves, wretched]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,8 +11,6 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
 

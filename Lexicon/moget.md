@@ -1,17 +1,12 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - moss
+English: [moss]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - mwsogl
-  - mwswm
-Breton:
-  - moged
+Welsh: [mwsogl, mwswm]
+Breton: [moged]
 Cornish:
 cognates:
 synonyms:

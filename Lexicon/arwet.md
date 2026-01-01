@@ -1,18 +1,11 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - behave
-  - conduct
-  - guide
-  - lead
+English: [behave, conduct, guide, lead]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*ɸare-wedn-"
+Proto-Celtic: ["*ɸare-wedn-"]
 Proto-Byrthonic:
-Welsh:
-  - arwein
+Welsh: [arwein]
 Breton:
 Cornish:
 cognates:

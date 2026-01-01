@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - mot
-  - mutter
+English: [mot, mutter]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

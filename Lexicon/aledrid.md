@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - compete
+English: [compete]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,3 +13,5 @@ synonyms:
 antonyms:
 arenas:
 ---
+
+[[aledr]] + [[id]]

@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
-Proto-Byrthonic:
+Parts of Speech: [Noun]
+IPA:
+English: [Destruction, Pestilence]
 Proto-Celtic:
-Welsh:
-  - ball
+Proto-Byrthonic:
+Welsh: [ball]
 Breton:
 Cornish:
-IPA:
-English:
-  - Pestilence
-  - Destruction
 ---

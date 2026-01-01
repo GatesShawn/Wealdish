@@ -1,16 +1,12 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - ash
+English: [ash]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*llʉdw"
+Proto-Byrthonic: ["*llʉdw"]
 Welsh:
-Breton:
-  - ludu
+Breton: [ludu]
 Cornish:
 cognates:
 synonyms:

@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - turnips
+English: [turnips]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,8 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - agriculture 
-  - biology
-  - botany
+arenas: [agriculture, biology, botany]
 ---

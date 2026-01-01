@@ -1,27 +1,18 @@
 ---
-Parts of Speech:
-  - Noun
-  - Verb
+Parts of Speech: [Noun, Verb]
 IPA:
-English:
-  - decay
-  - putrify
-  - rot
+English: [decay, putrify, rot]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - pydru
+Welsh: [pydru]
 Breton:
-Cornish:
-  - pedri
+Cornish: [pedri]
 cognates:
 synonyms:
 antonyms:
 aliases: [Putef]
-arenas:
-  - biology
-  - chronology
+arenas: [biology, chronology]
 ---
 
 Possibly from a mutation of [[putr]] + [[-ov]].

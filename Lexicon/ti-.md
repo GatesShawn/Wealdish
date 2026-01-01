@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Prefix
+Parts of Speech: [Prefix]
 IPA:
-English:
-  - Intensifying Prefix
-  - Negative Prefix
+English: [Intensifying Prefix, Negative Prefix]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

@@ -1,14 +1,9 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - bite
-  - chew
-  - gnaw
+English: [bite, chew, gnaw]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*knāyeti"
+Proto-Celtic: ["*knāyeti"]
 Proto-Byrthonic:
 Welsh:
 Breton:

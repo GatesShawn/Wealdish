@@ -1,24 +1,15 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - kale
-  - soup
+English: [kale, soup]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*kawl"
+Proto-Byrthonic: ["*kawl"]
 Welsh:
 Breton:
-Cornish:
-  - caul
+Cornish: [caul]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - agriculture
-  - biology
-  - botany
-  - food
+arenas: [biology, botany, food]
 ---

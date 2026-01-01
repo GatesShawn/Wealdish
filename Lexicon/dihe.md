@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Pronoun
+Parts of Speech: [Pronoun]
 IPA:
-English:
-  - them (dual)
-  - they (dual)
+English: [them (dual), they (dual)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

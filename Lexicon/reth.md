@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - law
-  - rule
+English: [law, rule]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

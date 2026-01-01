@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - gravewort
-  - lily
+English: [gravewort, lily]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

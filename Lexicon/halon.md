@@ -1,18 +1,13 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - salt
+English: [salt]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*haluɨn"
+Proto-Byrthonic: ["*haluɨn"]
 Welsh:
-Breton:
-  - holen
-Cornish:
-  - holan
+Breton: [holen]
+Cornish: [holan]
 cognates:
 synonyms:
 antonyms:

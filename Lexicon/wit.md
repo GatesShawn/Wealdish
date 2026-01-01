@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - wit
+English: [wit]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:

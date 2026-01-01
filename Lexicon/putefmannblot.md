@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - fungus
-  - mushroom
+English: [fungus, mushroom]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,9 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - mycology 
-  - biology
+arenas: [biology, mycology]
 ---
 
 [[putefmann]] + [[blot]]

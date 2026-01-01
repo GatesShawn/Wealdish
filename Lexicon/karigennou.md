@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - carts
+English: [carts]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,6 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - agriculture 
+arenas: [agriculture]
 ---
+
+[[karigenn]] + [[-ou]]

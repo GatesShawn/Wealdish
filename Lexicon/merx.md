@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA: me̝rx
-English:
-  - daughter
-  - horses
+English: [daughter, horses]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,8 +11,5 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - biology
-  - zoology
+arenas: [biology, zoology]
 ---
-	

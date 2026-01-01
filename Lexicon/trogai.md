@@ -15,6 +15,8 @@ cognates:
 synonyms:
 antonyms:
 arenas:
+  - sociology
+  - theology
 ---
 
 [[trog]] + [[-ai, -av]]

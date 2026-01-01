@@ -1,19 +1,11 @@
 ---
-Parts of Speech:
-  - Adverb
+Parts of Speech: [Adverb]
 IPA:
-English:
-  - forth
-  - forward
-  - on
-  - out
-  - outside
-Proto-Indo-European:
-  - "*pleh₂-"
+English: [forth, forward, on, out, outside]
+Proto-Indo-European: ["*pleh₂-"]
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-  - allan
+Welsh: [allan]
 Breton:
 Cornish:
 cognates:

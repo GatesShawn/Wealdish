@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - herders
+English: [herders]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*bʉgölɨð"
+Proto-Byrthonic: ["*bʉgölɨð"]
 Welsh:
 Breton:
 Cornish:

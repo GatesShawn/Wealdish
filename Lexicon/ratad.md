@@ -1,12 +1,9 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - ride
+English: [ride]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*rēdeti"
+Proto-Celtic: ["*rēdeti"]
 Proto-Byrthonic:
 Welsh:
 Breton:

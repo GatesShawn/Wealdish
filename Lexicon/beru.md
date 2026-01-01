@@ -1,14 +1,10 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - boil
-  - brew
+English: [boil, brew]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*berw"
+Proto-Byrthonic: ["*berw"]
 Welsh:
 Breton:
 Cornish:
@@ -17,4 +13,3 @@ synonyms:
 antonyms:
 arenas:
 ---
- 

@@ -1,13 +1,10 @@
 ---
-Parts of Speech:
-  - Noun
+Parts of Speech: [Noun]
 IPA:
-English:
-  - morning
+English: [morning]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-  - "*bọreɣ"
+Proto-Byrthonic: ["*bọreɣ"]
 Welsh:
 Breton:
 Cornish:

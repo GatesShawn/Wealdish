@@ -1,14 +1,9 @@
 ---
-Parts of Speech:
-  - Conjunction
-  - Preposition
+Parts of Speech: [Conjunction, Preposition]
 IPA:
-English:
-  - except
-  - outside
+English: [except, outside]
 Proto-Indo-European:
-Proto-Celtic:
-  - "*exteros"
+Proto-Celtic: ["*exteros"]
 Proto-Byrthonic:
 Welsh:
 Breton:

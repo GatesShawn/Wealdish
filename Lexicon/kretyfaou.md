@@ -1,8 +1,7 @@
 ---
-Parts of Speech:
+Parts of Speech: [Noun]
 IPA:
-English:
-  - credits
+English: [credits]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -12,7 +11,12 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [economics, sociology]
 ---
 
-[[kretyf]] + [[-ou]]
+## Construction
+ [[kretyfa]] + [[-ou]]
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]

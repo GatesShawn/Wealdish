@@ -1,10 +1,7 @@
 ---
-Parts of Speech:
-  - Verb
+Parts of Speech: [Verb]
 IPA:
-English:
-  - distribute
-  - recieve
+English: [distribute, recieve]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
