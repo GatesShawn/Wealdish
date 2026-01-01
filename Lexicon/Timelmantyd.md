@@ -13,3 +13,11 @@ synonyms:
 antonyms:
 arenas:
 ---
+
+[[timelman]] + [[tyd]]
+## Construction
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]

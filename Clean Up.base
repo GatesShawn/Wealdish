@@ -31,13 +31,3 @@ views:
     order:
       - file.name
       - Parts of Speech
-  - type: table
-    name: arenas
-    filters:
-      and:
-        - '!categories.containsAny("examples", "Grammar", "bibliography")'
-        - arenas.isEmpty()
-    order:
-      - file.name
-      - arenas
-      - English

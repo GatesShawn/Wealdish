@@ -1,7 +1,7 @@
 ---
 Parts of Speech: [Noun]
-IPA: brox
-English: [badger, badgers]
+IPA:
+English: [stoats]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -15,6 +15,11 @@ arenas: [biology, zoology]
 families: [Mustelidae]
 ---
 
+## Construction
+[[bronnwenmor]] + [[-ou]]
+
+## Usage Notes
+
 ## Related Words
-![[Related Words.base#Mustelidae]]
+![[Related Words.base#Families]]
 ![[Related Words.base#Roots]]

@@ -12,7 +12,7 @@ cognates:
 synonyms:
 antonyms:
 arenas: [biology, zoology]
-families: Mustelidae
+families: [Mustelidae]
 ---
 
 [[bronnwenn]] + [[-ou]]

@@ -2,14 +2,23 @@ filters:
   and:
     - file.ext == "md"
     - file.name != this.file.name
+formulas:
+  Family test: ""
+  CheckFamilies: if(families.containsAny(this.families), true)
 views:
   - type: list
     name: Roots
     filters:
       and:
         - this.file.hasLink(file)
-  - type: list
+    order:
+      - file.name
+      - formula.Family test
+  - type: table
     name: Families
     filters:
       and:
-        - families.containsAny(this.families)
+        - formula.CheckFamilies == true
+    order:
+      - file.name
+      - families

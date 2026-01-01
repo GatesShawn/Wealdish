@@ -1,13 +1,20 @@
 ---
-Parts of Speech: [Adjective]
+Parts of Speech:
+  - Noun
 IPA:
-English: [dark]
+English:
+  - darkness
 Proto-Indo-European:
+  - "*témHeslos"
 Proto-Celtic:
+  -  *temeslos
 Proto-Byrthonic:
-Welsh: [timuil, tywyll]
-Breton: [teffal, temoel, teñval]
-Cornish: [teul, tevle, tewal, tewl, tiwoulgou]
+  - "*tɨβ̃uɨl"
+  -  *temēl(os)
+Welsh:
+  - tywyll
+Breton:
+Cornish:
 cognates:
 synonyms:
 antonyms:
@@ -16,7 +23,6 @@ arenas:
 
 ## Construction
 
-[[tim]] + [[-el]]
 ## Usage Notes
 
 ## Related Words
