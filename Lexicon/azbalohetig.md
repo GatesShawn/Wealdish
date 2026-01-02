@@ -10,4 +10,4 @@ Breton:
 Cornish:
 ---
 
-[[azbalo]] + [[-hetig, -etig]]
+[[azbalo]] + [[-hetig]]

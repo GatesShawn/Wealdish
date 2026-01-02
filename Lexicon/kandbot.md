@@ -14,4 +14,11 @@ antonyms:
 arenas:
 ---
 
+## Construction
 [[kand]] + [[bot]]
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

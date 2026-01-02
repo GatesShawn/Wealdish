@@ -1,15 +1,23 @@
 ---
 Parts of Speech: [Verb]
 IPA:
-English: [take]
-Proto-Indo-European:
-Proto-Celtic:
-Proto-Byrthonic:
-Welsh:
+English: [espouse, receive, subtract, take]
+Proto-Indo-European: ["*ḱom + *bʰéreti"]
+Proto-Celtic: ["*kom-beret"]
+Proto-Byrthonic: ["*kummėrɨd"]
+Welsh: [cymryd]
 Breton:
-Cornish:
+Cornish: [kemeres]
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [mathematics]
 ---
+
+## Construction
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[patl]] + [[-e]] + [[-at, -yat]]
+[[patl]] + [[-e]] + [[-yat]]

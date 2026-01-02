@@ -1,0 +1,6 @@
+{
+  "entry-point@@color-scheme-selector": "color-scheme-golden-coffee",
+  "entry-point@@separate-color-scheme": true,
+  "entry-point@@light-mode-color-scheme-selector": "lm-color-scheme-golden-coffee",
+  "entry-point@@dark-mode-color-scheme-selector": "dm-color-scheme-alchemy"
+}

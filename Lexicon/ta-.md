@@ -8,8 +8,17 @@ Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+cognates:
 synonyms:
 antonyms:
+arenas: [grammar]
 ---
 
-From the preposition [[ta]]
+## Construction
+From the preposition [[ta]].
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

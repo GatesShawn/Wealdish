@@ -11,7 +11,15 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [sociology]
 ---
 
-present participle
+## Construction
+[[alam]] + [[-ys]]
+
+## Usage Notes
+Present Participle
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

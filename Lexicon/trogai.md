@@ -1,22 +1,23 @@
 ---
-Parts of Speech:
-  - Adjective
+Parts of Speech: [Adjective]
 IPA:
-English:
-  - evilist
-  - worst
+English: [evilist, worst]
 Proto-Indo-European:
 Proto-Celtic:
-Proto-Byrthonic:
-Welsh:
-Breton:
-Cornish:
+Proto-Byrthonic: ["*gwoɨθhaβ̃"]
+Welsh: [gwaethaf]
+Breton: [goazhaff]
+Cornish: [gwettha]
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - sociology
-  - theology
+arenas: [sociology, theology]
 ---
 
-[[trog]] + [[-ai, -av]]
+## Construction
+[[trog]] + [[-ai]]
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]

@@ -14,4 +14,4 @@ antonyms:
 arenas: [anatomy, biology, zoology]
 ---
 
-[[di-, daou-, div-]] + [[atan]]
+[[di-]] + [[atan]]

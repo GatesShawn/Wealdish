@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[ynved]] + [[-ai, -av]]
+[[ynved]] + [[-ai]]

@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
- [[kartys]] + [[-hetig, -etig]]
+ [[kartys]] + [[-hetig]]

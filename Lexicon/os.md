@@ -1,9 +1,7 @@
 ---
-Parts of Speech:
-  - Conjunction
+Parts of Speech: [Conjunction]
 IPA:
-English:
-  - if (open condition)
+English: [if (open condition)]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -13,8 +11,7 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
-  - grammar
+arenas: [grammar]
 ---
 
 "likely case (""when that happens"")"

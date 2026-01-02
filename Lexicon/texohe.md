@@ -12,4 +12,4 @@ synonyms:
 antonyms:
 ---
 
-[[texow]] + [[-e, -he]]
+[[texow]] + [[-he]]

@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[luetefe]]  + [[-hetig, -etig]]
+[[luetefe]]  + [[-hetig]]

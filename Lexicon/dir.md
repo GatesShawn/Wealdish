@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-possessive; mutated from [[di-, daou-, div-]] + [[da]]
+possessive; mutated from [[di-]] + [[da]]

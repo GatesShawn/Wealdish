@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-Because they normally come in pairs the default word uses [[di-, daou-, div-]].
+Because they normally come in pairs the default word uses [[di-]].

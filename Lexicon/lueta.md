@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
- [[luet]] + [[-a, -out]]
+ [[luet]] + [[-a]]

@@ -22,3 +22,8 @@ views:
     order:
       - file.name
       - families
+  - type: list
+    name: Derivatives
+    filters:
+      and:
+        - file.hasLink(this)

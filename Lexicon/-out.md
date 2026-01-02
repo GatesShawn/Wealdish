@@ -1,18 +1,22 @@
 ---
 Parts of Speech: [Suffix]
 IPA:
-English: [Augmentative Suffix]
+English:
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
 Welsh:
 Breton:
 Cornish:
+cognates:
 synonyms:
 antonyms:
 arenas: [grammar]
 ---
+## Construction
 
-maybe from Cornish ( still researching)
+## Usage Notes
 
-, the 'h' can be dropped when the stem ends with a hard constant
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

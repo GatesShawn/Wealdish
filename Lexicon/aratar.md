@@ -8,8 +8,16 @@ Proto-Byrthonic: ["*aradr"]
 Welsh: [ara(ter), aradr]
 Breton:
 Cornish:
-cognates:
+cognates: ["[[ar]]", "[[aro]]"]
 synonyms:
 antonyms:
 arenas:
 ---
+
+## Construction
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

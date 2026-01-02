@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[kusult]] + [[-a, -out]]
+[[kusult]] + [[-a]]

@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[gav]] + [[-a, -out]]
+[[gav]] + [[-a]]

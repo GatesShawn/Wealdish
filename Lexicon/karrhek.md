@@ -13,5 +13,12 @@ synonyms:
 antonyms:
 arenas:
 ---
+## Construction
 
-[[karr]] + [[-e, -he]] + [[-ek]]
+[[karrhe]] + [[-ek]]
+
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

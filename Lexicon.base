@@ -24,6 +24,12 @@ views:
     filters:
       and:
         - note["Parts of Speech"].contains("Noun")
+    order:
+      - file.name
+      - English
+    sort:
+      - property: English
+        direction: ASC
   - type: table
     name: Adjectives
     order:
@@ -59,6 +65,12 @@ views:
     filters:
       and:
         - note["Parts of Speech"].contains("Verb")
+    order:
+      - file.name
+      - English
+    sort:
+      - property: English
+        direction: ASC
   - type: table
     name: Prepositions
     filters:

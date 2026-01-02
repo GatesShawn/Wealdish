@@ -11,5 +11,12 @@ Cornish:
 cognates:
 synonyms:
 antonyms:
-arenas:
+arenas: [economics]
 ---
+## Construction
+[[an-]] + [[emed]] ?
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

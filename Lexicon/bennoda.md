@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[bennod]] + [[-a, -out]]
+[[bennod]] + [[-a]]

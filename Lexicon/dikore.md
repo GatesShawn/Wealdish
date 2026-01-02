@@ -14,4 +14,4 @@ antonyms:
 arenas: [food]
 ---
 
-[[di-, daou-, div-]] + [[kore]]
+[[di-]] + [[kore]]

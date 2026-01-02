@@ -1,6 +1,7 @@
 [
   "templater-obsidian",
-  "notebook-navigator",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]

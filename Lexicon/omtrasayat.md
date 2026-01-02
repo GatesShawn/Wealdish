@@ -18,4 +18,4 @@ arenas:
   - biology
 ---
 
-[[omtrasa]] + [[-at, -yat]]
+[[omtrasa]] + [[-yat]]

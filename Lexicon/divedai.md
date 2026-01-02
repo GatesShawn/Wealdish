@@ -18,4 +18,4 @@ arenas:
   - mathematics
 ---
 
-[[dived]] + [[-ai, -av]]
+[[dived]] + [[-ai]]

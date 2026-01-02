@@ -14,4 +14,11 @@ antonyms:
 arenas:
 ---
 
-[[urken]] + [[-hal, -al]]
+## Construction
+
+[[urken]] + [[-al]]
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

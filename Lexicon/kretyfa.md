@@ -14,4 +14,4 @@ antonyms:
 arenas: [economics, sociology]
 ---
 
-[[kretyf]] + [[-a, -out]]
+[[kretyf]] + [[-a]]

@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[dlokidys]] + [[-hetig, -etig]]
+[[dlokidys]] + [[-hetig]]

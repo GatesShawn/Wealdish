@@ -11,4 +11,4 @@ Cornish:
 arenas: [sociology]
 ---
 
-[[ruemanov]] + [[-at, -yat]]
+[[ruemanov]] + [[-yat]]

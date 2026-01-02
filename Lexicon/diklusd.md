@@ -14,4 +14,4 @@ antonyms:
 arenas: [anatomy, biology]
 ---
 
-[[di-, daou-, div-]] + [[klusd]]
+[[di-]] + [[klusd]]

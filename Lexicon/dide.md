@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[di-, daou-, div-]] + [[de]]
+[[di-]] + [[de]]

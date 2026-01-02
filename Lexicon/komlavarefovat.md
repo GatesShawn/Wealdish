@@ -14,4 +14,4 @@ antonyms:
 arenas: [sociology]
 ---
 
-[[komlavarefov]] + [[-at, -yat]]
+[[komlavarefov]] + [[-yat]]

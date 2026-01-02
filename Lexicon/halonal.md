@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[halone]] + [[-hal, -al]]
+[[halone]] + [[-al]]

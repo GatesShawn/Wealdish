@@ -1,7 +1,7 @@
 ---
 Parts of Speech: [Noun]
 IPA:
-English:
+English: [placing]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
@@ -14,4 +14,11 @@ antonyms:
 arenas:
 ---
 
-act of placing
+## Construction
+
+[[teh]] + [[-oc]]
+## Usage Notes
+Noun for the act of placing.
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

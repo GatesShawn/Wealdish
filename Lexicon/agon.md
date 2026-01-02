@@ -1,12 +1,12 @@
 ---
-Parts of Speech: [Pronoun]
+Parts of Speech: [Determiner]
 IPA:
 English: [our]
 Proto-Indo-European:
 Proto-Celtic:
 Proto-Byrthonic:
-Welsh:
-Breton:
+Welsh: [an, ein, yn]
+Breton: [hon]
 Cornish:
 cognates:
 synonyms:
@@ -14,4 +14,13 @@ antonyms:
 arenas:
 ---
 
-possessive
+## Construction
+
+## Usage Notes
+Possessive
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]
+
+

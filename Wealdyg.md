@@ -3,7 +3,7 @@ Authors: [Shawn Gates]
 ---
 
 ## Overview
-Byrthonic Language that evolved from Common Brythonic between Cornish and Breton
+Byrthonic Language that evolved from Proto-Brythonic as if in a a much larger region in the space between where between Cornish, Welsh, and Breton developed.
 
 From an in character perspective, this document should be taken as an attempt by a scholar to document the language spoken in the Weald. Due to the nature of the area any given village will likely have fairly disparate dialects that greatly change the proncution or word choice for things. In addition, literacy is likely not high so the spellings presented here are again, only one person's version.
 

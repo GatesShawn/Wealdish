@@ -14,4 +14,11 @@ antonyms:
 arenas:
 ---
 
-[[halon]] + [[-e, -he]]
+## Construction
+
+[[halon]] + [[-he]]
+## Usage Notes
+
+## Related Words
+![[Related Words.base#Roots]]
+![[Related Words.base#Derivatives]]

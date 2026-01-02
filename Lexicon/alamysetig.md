@@ -14,4 +14,4 @@ antonyms:
 arenas:
 ---
 
-[[alamys]] + [[-hetig, -etig]]
+[[alamys]] + [[-hetig]]
